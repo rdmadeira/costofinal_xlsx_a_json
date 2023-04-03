@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Convertir planilla de datos de costofinal a base de datos json",
   "main": "index.js",
+  "bin": {
+    "createJson": "./src/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +25,9 @@
   },
   "homepage": "https://github.com/rdmadeira/costofinal_xlsx_a_json#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^10.0.0",
+    "link": "^1.5.1",
     "uuid": "^9.0.0",
     "xlsx": "^0.18.5"
   },
