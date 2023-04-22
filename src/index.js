@@ -1,7 +1,11 @@
 #!/usr/bin/env node
 const chalk = require('chalk');
 const { program } = require('commander');
-const { menuItemsExcelAJson, productsExcelToJson } = require('./utils');
+const {
+  menuItemsExcelAJson,
+  productsExcelToJson,
+  updatePrices,
+} = require('./utils');
 
 program
   .version('1.0.0')
@@ -9,13 +13,15 @@ program
     chalk.bgBlueBright(
       `
 
-      ######################### Costo Final data json Creater #############################   
+      ######################### Costo Final data json Creater #############################
+      
+      
 `
     )
   )
   .description(
     chalk.bgBlueBright(
-      '     Objetivo: Crear archivos de data json para backend del Proyect Costo Final     '
+      '     Objetivo: Crear o modificar archivos de data json para backend del Proyect Costo Final     '
     )
   );
 
@@ -44,7 +50,7 @@ program
     if (type === 'products') {
       productsExcelToJson(
         'C:\\Users\\Administrador\\Desktop\\WebDesigner\\Backend\\costofinal_xlsx\\costofinal.xlsx',
-        'products.json'
+        'newProducts.json'
       );
       return;
     }
@@ -56,4 +62,15 @@ program
                       `)
     );
   });
+
+program
+  .command('updatePrices')
+  .description('Actualizar precios acorde archivo excel')
+  .alias('up')
+  .argument('<excelFilePath>', 'Path del archivo excel')
+  .argument('<jsonFilePath>', 'Path del archivo json a ser creado')
+  .action((excelFilePath, jsonPathFile) => {
+    updatePrices(excelFilePath, jsonPathFile);
+  });
+
 program.parse(process.argv);

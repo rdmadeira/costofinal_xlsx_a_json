@@ -6,7 +6,8 @@
         "MEDIDA": "Buje 3/4 x 1/2",
         "PRECIO": 250.3116,
         "TIPO": "Bujes",
-        "id": "9e4aa267-acb9-484d-9550-4b3deb769c90"
+        "id": "9e4aa267-acb9-484d-9550-4b3deb769c90",
+        "image": "/assets/caroussel/bronce_agua_buje.jpg"
       },
       {
         "CODIGO": "B112BR",
@@ -161,33 +162,33 @@
         "id": "0368350b-0c24-4227-b3f4-ef834ccbbee8"
       }
     ],
-    "Ts": [
+    "Tees": [
       {
         "CODIGO": "TEE12BR",
         "MEDIDA": "Tee 1/2",
         "PRECIO": 514.206,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "40d1779b-42af-4a48-84e0-09a809e73c75"
       },
       {
         "CODIGO": "TEE34BR",
         "MEDIDA": "Tee 3/4",
         "PRECIO": 758.6964,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "8d61b936-94c7-46b7-9850-f9fa940b52e7"
       },
       {
         "CODIGO": "TEE1BR",
         "MEDIDA": "Tee 1 ",
         "PRECIO": 1129.3128,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "bc470d8f-eeba-4b73-b71f-6935ed91cf9a"
       },
       {
         "CODIGO": "TEE3412BR",
         "MEDIDA": "Tee 3/4 X 1/2",
         "PRECIO": 671.3784,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "c653d673-1260-4cda-8ac9-ade16e0acef7"
       }
     ],
@@ -238,7 +239,8 @@
         "MEDIDA": "Buje Reducción 1/4 x 1/8",
         "PRECIO": 65.1075796353247,
         "TIPO": "Bujes de Reduccion",
-        "id": "f27eda87-c702-4e65-bcfa-01d2e54cb04d"
+        "id": "f27eda87-c702-4e65-bcfa-01d2e54cb04d",
+        "image": "/assets/caroussel/bronce_trafilado_buje_reduccion.jpg"
       },
       {
         "CODIGO": 3818,
@@ -1048,10 +1050,11 @@
     "Codos": [
       {
         "CODIGO": "HH18",
-        "MEDIDA": "Codo Hembra -Hembra 1/8 ",
+        "MEDIDA": "Codo Hembra -Hembra 1/8  ",
         "PRECIO": 259.813125,
         "TIPO": "Codos",
-        "id": "f2133219-efb4-4d38-bb88-2687218073b3"
+        "id": "f2133219-efb4-4d38-bb88-2687218073b3",
+        "image": "/assets/caroussel/codos_tees_gas_codos_hh.jpg"
       },
       {
         "CODIGO": "HH14",
@@ -1252,54 +1255,54 @@
         "id": "c7e0245c-2c78-4e96-80f1-47e42e9b8e46"
       }
     ],
-    "Ts": [
+    "Tees": [
       {
         "CODIGO": "THH18",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 1/8",
         "PRECIO": 352.86875,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "b96cbb81-8a83-474c-a15f-2db3877efb9d"
       },
       {
         "CODIGO": "THH14",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 1/4",
         "PRECIO": 250.680625,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "9cdbbfd8-adb5-4b01-985c-3b31891e7456"
       },
       {
         "CODIGO": "THH38",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 3/8",
         "PRECIO": 341.10375,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "9bc40af8-047c-485a-9325-f67381e6823f"
       },
       {
         "CODIGO": "TMM18",
         "MEDIDA": "Tee Macho - Macho - Macho 1/8",
         "PRECIO": 283.765625,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "ebd5c556-8c59-4ee7-8be6-e24bd61c8fbb"
       },
       {
         "CODIGO": "TMM14",
         "MEDIDA": "Tee Macho - Macho - Macho 1/ 4",
         "PRECIO": 317.785,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "6a70e389-09b2-4f19-b4ee-4b2691b6d9ca"
       },
       {
         "CODIGO": "TMM38",
         "MEDIDA": "Tee Macho - Macho - Macho 3/ 8",
         "PRECIO": 414.06625,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "282e4528-93e2-4364-837c-6a2faffd093f"
       },
       {
         "CODIGO": "TM",
         "MEDIDA": "Tee manguera para gas ",
         "PRECIO": 267.085,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "b7ee6f78-ddcd-4e7c-b2a7-55d98952e80e"
       }
     ],
@@ -1326,14 +1329,15 @@
     "Termocuplas solas": [
       {
         "CODIGO": "TEURO30",
-        "MEDIDA": "Termocuplas   Euro  30 cm",
+        "MEDIDA": "Termocuplas Euro 30 cm",
         "PRECIO": 424.56,
         "TIPO": "Termocuplas solas",
-        "id": "53958b27-c116-4d9b-a875-6bae0680dd03"
+        "id": "53958b27-c116-4d9b-a875-6bae0680dd03",
+        "image": "/assets/caroussel/termocuplas_termocupla_sola.jpg"
       },
       {
         "CODIGO": "TEURO50",
-        "MEDIDA": "Termocuplas   Euro 50 cm",
+        "MEDIDA": "Termocuplas Euro 50 cm",
         "PRECIO": 526.82,
         "TIPO": "Termocuplas solas",
         "id": "0a4f358a-4575-4cbe-b112-28aec498fbd6"
@@ -1575,7 +1579,7 @@
     "Soportes": [
       {
         "CODIGO": "T8X1",
-        "MEDIDA": "Soporte8 X 1",
+        "MEDIDA": "Soporte 8 X 1",
         "PRECIO": 124.450816,
         "TIPO": "Soportes",
         "id": "f9906b77-0f1b-4740-9381-603b98e285fb"
@@ -1689,7 +1693,8 @@
         "MEDIDA": "Espiga doble 1/2",
         "PRECIO": 11.37162,
         "TIPO": "Espigas doble",
-        "id": "e4b36b2d-d83a-4839-a415-7c2eb85f75fd"
+        "id": "e4b36b2d-d83a-4839-a415-7c2eb85f75fd",
+        "image": "/assets/caroussel/polietileno_espiga_doble.jpg"
       },
       {
         "CODIGO": "ED34",
@@ -1915,68 +1920,68 @@
         "id": "14ee961c-4842-45c8-8e3f-847bb928ebb1"
       }
     ],
-    "Ts ": [
+    "Tees ": [
       {
         "CODIGO": "TEEE12P",
         "MEDIDA": "Tee triple enchufe 1/2",
         "PRECIO": 33.02845,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "ec38f682-471a-4b65-a5b8-8f3a9d401033"
       },
       {
         "CODIGO": "TEEE34P",
         "MEDIDA": "Tee triple enchufe  3/4",
         "PRECIO": 42.59996,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "08cf1a55-5c6c-4206-8f9f-62c74e141a93"
       },
       {
         "CODIGO": "TEEE1P",
         "MEDIDA": "Tee triple enchufe 1",
         "PRECIO": 71.04487,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "8bc4c01d-19e8-4fa1-9b40-59e45ebb2bd7"
       },
       {
         "CODIGO": "TEERM12P",
         "MEDIDA": "Tee enchufe rosca macho 1/2",
         "PRECIO": 59.80806,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "da2c7b63-33b7-4bb0-bc18-2adf4cb6d3cb"
       },
       {
         "CODIGO": "TEERM34P",
         "MEDIDA": "Tee enchufe rosca macho 3/4",
         "PRECIO": 69.4668,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "1e242103-7218-4c35-a46f-1643ca4ffa2b"
       },
       {
         "CODIGO": "TEERM1P",
         "MEDIDA": "Tee enchufe rosca macho 1",
         "PRECIO": 91.96421,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "d454cfe0-23e8-45b8-a8c2-03e04a222c84"
       },
       {
         "CODIGO": "TEERH12P",
         "MEDIDA": "Tee enchufe rosca hembra 1/2",
         "PRECIO": 55.51793,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "80d2e871-2993-4b20-8567-13af6fb051c0"
       },
       {
         "CODIGO": "TEERH34P",
         "MEDIDA": "Tee enchufe rosca hembra 3/4",
         "PRECIO": 65.71591,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "2fbfdd16-4e7d-4c13-85a0-b18d7993dc86"
       },
       {
         "CODIGO": "TEERH1P",
         "MEDIDA": "Tee enchufe rosca hembra 1",
         "PRECIO": 93.70088,
-        "TIPO": "Ts ",
+        "TIPO": "Tees ",
         "id": "7411b6f2-aa28-4c4a-b6a5-d295368aafb5"
       }
     ]
@@ -1988,7 +1993,8 @@
         "MEDIDA": "BUJE 20 X 25 FUSION",
         "PRECIO": 20.55375,
         "TIPO": "Buje Fusion",
-        "id": "6a47232e-4af5-4357-9b0d-91f75dcabe24"
+        "id": "6a47232e-4af5-4357-9b0d-91f75dcabe24",
+        "image": "/assets/caroussel/termofusion_buje_reduccion.jpg"
       }
     ],
     "Codos": [
@@ -2109,47 +2115,47 @@
         "id": "cf9fbc6e-bfd5-45e9-8e45-d8a8486cb14f"
       }
     ],
-    "Ts": [
+    "Tees": [
       {
         "CODIGO": "TEE20F",
         "MEDIDA": "TEE 20 MM  FUSION",
         "PRECIO": 27.64125,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "96ffc16d-3ad2-4c8a-9d9f-75406f9001d4"
       },
       {
         "CODIGO": "TEE25F",
         "MEDIDA": "TEE 25 MM  FUSION",
         "PRECIO": 35.91,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "a849abc1-d358-4aef-9c4e-b90bd4e1e970"
       },
       {
         "CODIGO": "TEE32F",
         "MEDIDA": "TEE 32 MM  FUSION",
         "PRECIO": 63.590625,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "a6659fd7-2a96-4fd2-85a8-76bec7e4eda2"
       },
       {
         "CODIGO": "TEE2520F",
         "MEDIDA": "TEE 25 X 20 M M FUSION",
         "PRECIO": 49.8875,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "f4ec99f5-8d47-475f-9730-27974c2ae336"
       },
       {
         "CODIGO": "TEE3220F",
         "MEDIDA": "TEE 32 X 20 M M FUSION",
         "PRECIO": 107.652,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "efbddd4b-60d3-4893-ae67-7d14f45c6adc"
       },
       {
         "CODIGO": "TEE3225F",
         "MEDIDA": "TEE 32 X 25 M M FUSION",
         "PRECIO": 81.125,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "fa8b3852-32ef-4111-8e5f-37898bc5557c"
       }
     ],
@@ -2386,54 +2392,54 @@
         "id": "2028bc26-676b-4f25-9b56-cbb404451a8e"
       }
     ],
-    "Ts Inserto": [
+    "Tees Inserto": [
       {
         "CODIGO": "TEEH2012F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 20X1/2  FUSION",
         "PRECIO": 285.46875,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "72cb978f-5ecf-4c7f-ac97-e4854d3f7f7f"
       },
       {
         "CODIGO": "TEEH2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 25X1/2 FUSION",
         "PRECIO": 427.308,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "c88eac20-7509-454f-b546-1ca5a138919f"
       },
       {
         "CODIGO": "TEEh2534F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 25X3/4  FUSION",
         "PRECIO": 558.402,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "4e9a27a0-9116-4848-9763-ac7153ef7f8f"
       },
       {
         "CODIGO": "TEEH3212F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 32X1/2  FUSION",
         "PRECIO": 236.51352,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "77ebcad6-d965-41d5-9444-955c6a010d06"
       },
       {
         "CODIGO": "TEEM2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 20X12  FUSION",
         "PRECIO": 376.11,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "03f4a830-b0f7-465f-848e-a77f3e442089"
       },
       {
         "CODIGO": "TEEM2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 25X12  FUSION",
         "PRECIO": 534.018,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "541ed787-0477-4a6a-b67c-c898b5f53211"
       },
       {
         "CODIGO": "TEEM2534F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 25X3/4  FUSION",
         "PRECIO": 631.248,
-        "TIPO": "Ts Inserto",
+        "TIPO": "Tees Inserto",
         "id": "73891337-40b8-4a4f-adef-9d5a02da3ccd"
       }
     ],
@@ -2498,7 +2504,8 @@
         "MEDIDA": "Codo Hembra - Hembra 90 º 1/2",
         "PRECIO": 27.08355,
         "TIPO": "Codos",
-        "id": "c6cbd762-5186-48ad-9114-23bfb5535f30"
+        "id": "c6cbd762-5186-48ad-9114-23bfb5535f30",
+        "image": "/assets/caroussel/polipropileno_codo_90_hh.jpg"
       },
       {
         "CODIGO": "CODOHH34P",
@@ -2598,26 +2605,26 @@
         "id": "d718aad4-939e-4194-b1f0-12a7118725b2"
       }
     ],
-    "Ts": [
+    "Tees": [
       {
         "CODIGO": "TEE12P",
         "MEDIDA": "Tee 1/2",
         "PRECIO": 44.0895,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "c63987f8-7233-4bf2-a747-6cd2f176b213"
       },
       {
         "CODIGO": "TEE34P",
         "MEDIDA": "Tee 3/4",
         "PRECIO": 78.73125,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "3a4d639f-2df3-4707-9cab-7a31f6704a33"
       },
       {
         "CODIGO": "TEE1P",
         "MEDIDA": "Tee 1 ",
         "PRECIO": 119.6715,
-        "TIPO": "Ts",
+        "TIPO": "Tees",
         "id": "b1edae8d-c85b-4f90-9909-81231447dc45"
       }
     ],
@@ -2868,7 +2875,8 @@
         "MEDIDA": "Rejilla de ventilacion  20x40  800cm3 para gabinete gas",
         "PRECIO": 577.5,
         "TIPO": "Rejillas",
-        "id": "7f052c4e-e451-455f-849e-4a60bd012107"
+        "id": "7f052c4e-e451-455f-849e-4a60bd012107",
+        "image": "/assets/caroussel/rejillas_ventilacion_20x40_800.jpg"
       },
       {
         "CODIGO": "R15S100",

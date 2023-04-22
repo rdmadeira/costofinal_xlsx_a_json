@@ -67,9 +67,41 @@ const productsExcelToJson = (excelFilePath, jsonPathFile) => {
   const dataToJson = transformToNewJson();
   fs.writeFileSync(jsonPathFile, JSON.stringify(dataToJson));
   console.log(
-    chalk.bgYellow.bold(`
+    chalk.bgYellow.black.bold(`
     ----------------- Json productos creado con exito!! ----------------     `)
   );
 };
 
-module.exports = { menuItemsExcelAJson, productsExcelToJson };
+const updatePrices = (excelFilePath, jsonPathFile) => {
+  console.log(jsonPathFile);
+  const excel = XLSX.readFile(excelFilePath);
+  const sheet = excel.Sheets['HojaParaActualizar'];
+  const datosSheetName = XLSX.utils.sheet_to_json(sheet);
+
+  const products = require('../products.json');
+  const productsKeys = Object.keys(products);
+
+  productsKeys.forEach((productKey) => {
+    Object.keys(products[productKey]).forEach((subProductoKey) => {
+      products[productKey][subProductoKey].forEach((productItem, index) => {
+        datosSheetName.forEach((item) => {
+          if (
+            item.CODIGO === products[productKey][subProductoKey][index].CODIGO
+          ) {
+            products[productKey][subProductoKey][index].PRECIO = item.PRECIO;
+          }
+        });
+      });
+    });
+  });
+
+  fs.writeFileSync(jsonPathFile, JSON.stringify(products));
+
+  console.log(`
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    !!!!!!!!!!!!!!  ACTUALIZADO CON EXITO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  `);
+};
+
+module.exports = { menuItemsExcelAJson, productsExcelToJson, updatePrices };
