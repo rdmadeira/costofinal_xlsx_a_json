@@ -4,7 +4,7 @@
       {
         "CODIGO": "B3412BR",
         "MEDIDA": "Buje 3/4 x 1/2",
-        "PRECIO": 250.3116,
+        "PRECIO": 325.40508,
         "TIPO": "Bujes",
         "KIT": 20,
         "id": "201d8033-3a05-45b6-aa46-bb26912061f6"
@@ -12,7 +12,7 @@
       {
         "CODIGO": "B112BR",
         "MEDIDA": "Buje 1 x 1/2",
-        "PRECIO": 481.2192,
+        "PRECIO": 625.58496,
         "TIPO": "Bujes",
         "KIT": 20,
         "id": "2be8ccc1-6549-4f8c-b131-c240dee25d0e"
@@ -20,7 +20,7 @@
       {
         "CODIGO": "B134BR",
         "MEDIDA": "Buje 1 x 3/4",
-        "PRECIO": 391.9608,
+        "PRECIO": 509.54903999999993,
         "TIPO": "Bujes",
         "KIT": 20,
         "id": "519120f8-342b-4643-9dc2-851adb56a83d"
@@ -30,7 +30,7 @@
       {
         "CODIGO": "C12BR",
         "MEDIDA": "Cupla 1/2",
-        "PRECIO": 318.2256,
+        "PRECIO": 413.69328,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "e333e03d-129a-46e0-a0ce-281a591dffdf"
@@ -38,7 +38,7 @@
       {
         "CODIGO": "C34BR",
         "MEDIDA": "Cupla 3/4",
-        "PRECIO": 399.7224,
+        "PRECIO": 519.63912,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "cff64581-ded3-4afe-848c-30944bb012d2"
@@ -46,7 +46,7 @@
       {
         "CODIGO": "C1BR",
         "MEDIDA": "Cupla 1",
-        "PRECIO": 659.736,
+        "PRECIO": 857.6568,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "4f5a33d3-e10d-4cfe-af5a-ff4ffa4a53e6"
@@ -54,7 +54,7 @@
       {
         "CODIGO": "C114BR",
         "MEDIDA": "Cupla 1 1/4",
-        "PRECIO": 659.736,
+        "PRECIO": 857.6568,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "158cd57f-c790-425a-b482-e07be375fd43"
@@ -62,7 +62,7 @@
       {
         "CODIGO": "c3412br",
         "MEDIDA": "Cupla 3/4 x 1/2",
-        "PRECIO": 357.0336,
+        "PRECIO": 464.1436800000001,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "97606793-27fc-480c-a247-e72f6be3eada"
@@ -72,7 +72,7 @@
       {
         "CODIGO": "E12BR",
         "MEDIDA": "Entrerosca 1/2",
-        "PRECIO": 232.848,
+        "PRECIO": 302.7024,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "490e9c83-450f-470c-b1ab-42bf6d39be54"
@@ -80,7 +80,7 @@
       {
         "CODIGO": "E34BR",
         "MEDIDA": "Entrerosca 3/4",
-        "PRECIO": 345.3912,
+        "PRECIO": 449.00856000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "f332f6d2-5c7e-4193-86fa-d6768d4f185a"
@@ -88,7 +88,7 @@
       {
         "CODIGO": "E1BR",
         "MEDIDA": "Entrerosca 1",
-        "PRECIO": 541.3716,
+        "PRECIO": 703.7830799999999,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "412eba37-65f7-425f-92af-0d2e84da4512"
@@ -98,7 +98,7 @@
       {
         "CODIGO": "RMM3412BR",
         "MEDIDA": "Reduccion M M 3/4 x 1/2",
-        "PRECIO": 335.6892,
+        "PRECIO": 436.39596000000006,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "38412621-1575-4288-920c-5949a909980c"
@@ -108,7 +108,7 @@
       {
         "CODIGO": "TA12BR",
         "MEDIDA": "Tapa 1/2",
-        "PRECIO": 242.55,
+        "PRECIO": 315.315,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "93d3350c-d3c5-406b-b593-0f869da1d38a"
@@ -116,7 +116,7 @@
       {
         "CODIGO": "TA4BR",
         "MEDIDA": "Tapa 3/4",
-        "PRECIO": 283.2984,
+        "PRECIO": 368.28792000000004,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "52f1fb68-7a7d-4062-92a7-23c79ba82d32"
@@ -126,7 +126,7 @@
       {
         "CODIGO": "TO12BR",
         "MEDIDA": "Tapon  1/2",
-        "PRECIO": 190.1592,
+        "PRECIO": 247.20696000000004,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "d0eb713b-411b-4f87-9ce3-6219125e053f"
@@ -134,7 +134,7 @@
       {
         "CODIGO": "TO34BR",
         "MEDIDA": "Tapon  3/4",
-        "PRECIO": 312.4044,
+        "PRECIO": 406.12572,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "9b0e5cdb-91de-470c-92d8-e96d9ccef1bf"
@@ -144,7 +144,7 @@
       {
         "CODIGO": "CODOHH12BR",
         "MEDIDA": "Codo Hembra -Hembra 1/2 90 º",
-        "PRECIO": 426.888,
+        "PRECIO": 554.9544000000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "0edc3243-3e2e-4a34-9873-f8a00205976e"
@@ -152,7 +152,7 @@
       {
         "CODIGO": "CODOHH34BR",
         "MEDIDA": "Codo Hembra -Hembra 3/4 90 º",
-        "PRECIO": 638.3916,
+        "PRECIO": 829.9090799999999,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "83cc6278-6f51-4b1e-b6eb-5b2bd278d654"
@@ -160,7 +160,7 @@
       {
         "CODIGO": "CODOHM12BR",
         "MEDIDA": "Codo Hembra -Macho 1/2 90 º",
-        "PRECIO": 426.888,
+        "PRECIO": 554.9544000000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "0d9ac5b8-c159-4e40-93a6-5bca79a14604"
@@ -168,7 +168,7 @@
       {
         "CODIGO": "CODOHM34BR",
         "MEDIDA": "Codo Hembra -Macho 3/4 90 º",
-        "PRECIO": 638.3916,
+        "PRECIO": 829.9090799999999,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "08528e2b-49dc-454c-96c9-c9dcb6f1c7e9"
@@ -176,7 +176,7 @@
       {
         "CODIGO": "CODOHH3412BR",
         "MEDIDA": "Codo Hembra - Hembra 3/4 x 1/2",
-        "PRECIO": 523.908,
+        "PRECIO": 681.0804,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "83c3ef81-7685-4dab-bc80-40f306a561f8"
@@ -186,7 +186,7 @@
       {
         "CODIGO": "TEE12BR",
         "MEDIDA": "Tee 1/2",
-        "PRECIO": 514.206,
+        "PRECIO": 668.4678,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "b0e4862c-066e-4814-8636-2dea79fc5f34"
@@ -194,7 +194,7 @@
       {
         "CODIGO": "TEE34BR",
         "MEDIDA": "Tee 3/4",
-        "PRECIO": 758.6964,
+        "PRECIO": 986.30532,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "44551c56-a97b-4a8a-b215-50a100e83c8d"
@@ -202,7 +202,7 @@
       {
         "CODIGO": "TEE1BR",
         "MEDIDA": "Tee 1 ",
-        "PRECIO": 1129.3128,
+        "PRECIO": 1468.10664,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "0b46e2aa-dff9-4c4f-8b79-ec143b6171fb"
@@ -210,7 +210,7 @@
       {
         "CODIGO": "TEE3412BR",
         "MEDIDA": "Tee 3/4 X 1/2",
-        "PRECIO": 671.3784,
+        "PRECIO": 872.7919200000001,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "208c0f57-fa73-49d9-8b3c-a9c7c68df3d1"
@@ -220,7 +220,7 @@
       {
         "CODIGO": "UDC12BR",
         "MEDIDA": "Union doble conica 1/2",
-        "PRECIO": 799.4448,
+        "PRECIO": 1039.27824,
         "TIPO": "Uniones",
         "KIT": 10,
         "id": "e14caece-8cd8-4278-85fe-08ad83ceb661"
@@ -228,7 +228,7 @@
       {
         "CODIGO": "UDC34BR",
         "MEDIDA": "Union doble conica 3/4",
-        "PRECIO": 1451.4192,
+        "PRECIO": 1886.8449600000001,
         "TIPO": "Uniones",
         "KIT": 10,
         "id": "eb6176df-06c5-4ab1-a4ea-b6f7d1ee0165"
@@ -238,7 +238,7 @@
       {
         "CODIGO": "BRIDA12BR",
         "MEDIDA": "Brida 1/2",
-        "PRECIO": 500.6232,
+        "PRECIO": 945.945,
         "TIPO": "Bridas",
         "KIT": 10,
         "id": "507fc366-73f3-4c7b-994c-1cc0879e02a3"
@@ -246,7 +246,7 @@
       {
         "CODIGO": "BRIDA34BR",
         "MEDIDA": "Brida 3/4",
-        "PRECIO": 638.3916,
+        "PRECIO": 829.9090799999999,
         "TIPO": "Bridas",
         "KIT": 10,
         "id": "6ad290f0-f488-42a3-b4c7-8398c74e793e"
@@ -254,7 +254,7 @@
       {
         "CODIGO": "BRIDA12BR",
         "MEDIDA": "Brida 1 ",
-        "PRECIO": 727.65,
+        "PRECIO": 945.945,
         "TIPO": "Bridas",
         "KIT": 10,
         "id": "2b244469-6a12-4170-b82f-2d3aa0988d2c"
@@ -266,7 +266,7 @@
       {
         "CODIGO": 1418,
         "MEDIDA": "Buje Reducción 1/4 x 1/8",
-        "PRECIO": 65.1075796353247,
+        "PRECIO": 87.14721909163636,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "5e435f1f-92d7-475f-9810-87a6e45fd0af"
@@ -274,7 +274,7 @@
       {
         "CODIGO": 3818,
         "MEDIDA": "Buje Reducción 3/8 x 1/8",
-        "PRECIO": 109.757600349495,
+        "PRECIO": 146.2069770987879,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "a201d2b9-1f50-4b34-949c-f9fdd088ee40"
@@ -282,7 +282,7 @@
       {
         "CODIGO": 3814,
         "MEDIDA": "Buje Reducción 3/8 x 1/4",
-        "PRECIO": 94.9520804543435,
+        "PRECIO": 126.87893022842424,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "d3d2631f-51bf-4934-a668-5935b153f2bb"
@@ -290,7 +290,7 @@
       {
         "CODIGO": 1218,
         "MEDIDA": "Buje Reducción 1/2 x 1/8",
-        "PRECIO": 121.579390409091,
+        "PRECIO": 160.9582148838182,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "140fb136-7225-4f8c-be07-9a05916a0418"
@@ -298,7 +298,7 @@
       {
         "CODIGO": 1214,
         "MEDIDA": "Buje Reducción 1/2 x 1/4",
-        "PRECIO": 109.476922943182,
+        "PRECIO": 144.92677862413638,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "f48956d5-f949-4447-8e6d-c24ac156979a"
@@ -306,7 +306,7 @@
       {
         "CODIGO": 1238,
         "MEDIDA": "Buje Reducción 1/2 x 3/8",
-        "PRECIO": 101.237232606061,
+        "PRECIO": 134.40455016654548,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "1ea1ff48-1f2f-4c80-992e-71c9b187827f"
@@ -314,7 +314,7 @@
       {
         "CODIGO": 3412,
         "MEDIDA": "Buje Reducción 3/4 x 1/2",
-        "PRECIO": 323.994007888889,
+        "PRECIO": 434.01177665733337,
         "TIPO": "Bujes de Reduccion",
         "KIT": 20,
         "id": "6b9681c8-9b9a-40b2-a06a-2c7b138fd298"
@@ -324,7 +324,7 @@
       {
         "CODIGO": "CC",
         "MEDIDA": "Conexión de cocina c/ caño ",
-        "PRECIO": 691.721428302247,
+        "PRECIO": 915.4281107037713,
         "TIPO": "Conexiones de cocina",
         "KIT": 20,
         "id": "b2e892eb-18c5-4c67-adcb-c1399a5c4d8f"
@@ -332,7 +332,7 @@
       {
         "CODIGO": "CS",
         "MEDIDA": "Conexión de cocina sin caño ",
-        "PRECIO": 591.721428302247,
+        "PRECIO": 785.4281107037713,
         "TIPO": "Conexiones de cocina",
         "KIT": 20,
         "id": "f8788201-b5b3-42c5-8f91-a706c76218d5"
@@ -342,7 +342,7 @@
       {
         "CODIGO": "C18",
         "MEDIDA": "Cuplas de 1/8",
-        "PRECIO": 85.9677883641212,
+        "PRECIO": 112.8526281754182,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "921e2f43-617b-4d5c-a193-cf68c164a971"
@@ -350,7 +350,7 @@
       {
         "CODIGO": "C14",
         "MEDIDA": "Cuplas de 1/4",
-        "PRECIO": 103.175076142909,
+        "PRECIO": 137.93618782178183,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "9f7966d2-dbbb-4a3f-884d-21295ae90ed0"
@@ -358,7 +358,7 @@
       {
         "CODIGO": "C38",
         "MEDIDA": "Cuplas de 3/8",
-        "PRECIO": 142.607373939394,
+        "PRECIO": 189.82426953454552,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "4d666f08-97c3-4fe8-b0f2-8f40a2dc7566"
@@ -366,7 +366,7 @@
       {
         "CODIGO": "C12",
         "MEDIDA": "Cuplas de 1/2",
-        "PRECIO": 231.619321454545,
+        "PRECIO": 307.9710651869092,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "972beb15-ed2e-4530-8bce-40692c510a0b"
@@ -376,7 +376,7 @@
       {
         "CODIGO": "CUPLA1418",
         "MEDIDA": "Cupla reducción 1/4 X 1/8",
-        "PRECIO": 149.174831782391,
+        "PRECIO": 200.72586687501095,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "c1be6bce-a54a-4587-abca-b16ce0d189a7"
@@ -384,7 +384,7 @@
       {
         "CODIGO": "CUPLA3814",
         "MEDIDA": "Cupla reducción 3/8 x 1/4",
-        "PRECIO": 172.526511136364,
+        "PRECIO": 230.86534163727276,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "27b36813-f150-4d54-9786-d2b693ddc092"
@@ -392,7 +392,7 @@
       {
         "CODIGO": "CUPLA3818",
         "MEDIDA": "Cupla reducción 3/8 x 1/8",
-        "PRECIO": 172.526511136364,
+        "PRECIO": 224.0403416372728,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "79f9ed94-e671-4a22-80ba-7a8cf305981f"
@@ -400,7 +400,7 @@
       {
         "CODIGO": "CUPLA1238",
         "MEDIDA": "Cupla reducción 1/2 x 3/8",
-        "PRECIO": 208.205156909091,
+        "PRECIO": 277.47310711781824,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "da0c2cf5-9641-46a8-aaa2-b5f89fa18056"
@@ -408,7 +408,7 @@
       {
         "CODIGO": "CUPLA1214",
         "MEDIDA": "Cupla reducción 1/2 x 1/4",
-        "PRECIO": 208.205156909091,
+        "PRECIO": 277.47310711781824,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "f14d50b8-19a0-4510-be72-7751ca564452"
@@ -416,7 +416,7 @@
       {
         "CODIGO": "CUPLA1218",
         "MEDIDA": "Cupla reducción 1/2 x 1/8",
-        "PRECIO": 208.205156909091,
+        "PRECIO": 277.47310711781824,
         "TIPO": "Cuplas Reducción",
         "KIT": 20,
         "id": "5b97683e-557d-4662-8da3-d801e2c7dfbe"
@@ -426,7 +426,7 @@
       {
         "CODIGO": "E18",
         "MEDIDA": "Entre rosca  P/ virola 1/8",
-        "PRECIO": 99.2941485292929,
+        "PRECIO": 130.65237911030306,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "29009a14-f398-46eb-80f8-6d71370a69c0"
@@ -434,7 +434,7 @@
       {
         "CODIGO": "E14",
         "MEDIDA": "Entre rosca  P/ virola 1/4",
-        "PRECIO": 97.3677623434344,
+        "PRECIO": 130.09787282424244,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "55439bad-4a15-49be-badf-83f111adcb43"
@@ -442,7 +442,7 @@
       {
         "CODIGO": "E38",
         "MEDIDA": "Entre rosca  P/ virola 3/8",
-        "PRECIO": 127.029825672414,
+        "PRECIO": 168.51583246034485,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "82971541-0d7d-4f32-8358-c678308b14f1"
@@ -450,7 +450,7 @@
       {
         "CODIGO": "E12",
         "MEDIDA": "Entre rosca  P/ virola 1/2",
-        "PRECIO": 232.478029603448,
+        "PRECIO": 308.29660594020686,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "1d454946-17f1-4a6d-82e9-947499bbf187"
@@ -460,7 +460,7 @@
       {
         "CODIGO": "IF",
         "MEDIDA": "Inserto de bronce estría Fina ",
-        "PRECIO": 46.8693214545455,
+        "PRECIO": 62.309649527272725,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "c5b1b22c-2881-41d8-9216-5e977ab94863"
@@ -468,7 +468,7 @@
       {
         "CODIGO": "IG",
         "MEDIDA": "Inserto de bronce estría Gruesa",
-        "PRECIO": 46.6415493818182,
+        "PRECIO": 62.217065796363634,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "367f8a29-bcaa-47e7-9b3f-f3a25a32593e"
@@ -476,7 +476,7 @@
       {
         "CODIGO": "IC",
         "MEDIDA": "Inserto de bronce estría cuadrado",
-        "PRECIO": 46.6415493818182,
+        "PRECIO": 62.217065796363634,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "b494adad-3608-4f98-9526-2721ddd41543"
@@ -484,7 +484,7 @@
       {
         "CODIGO": "IFP",
         "MEDIDA": "Inserto de plastico estría fina",
-        "PRECIO": 6.984,
+        "PRECIO": 10.046400000000002,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "68dddc7f-e0b2-45dd-b978-f0320fdfef46"
@@ -492,7 +492,7 @@
       {
         "CODIGO": "IGP",
         "MEDIDA": "Inserto de plastico estría gruesa",
-        "PRECIO": 6.984,
+        "PRECIO": 10.046400000000002,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "82a57922-1426-451c-ac3f-964aeeaffc24"
@@ -500,7 +500,7 @@
       {
         "CODIGO": "ICP",
         "MEDIDA": "Inserto de plastico estría cuadrada",
-        "PRECIO": 6.984,
+        "PRECIO": 10.046400000000002,
         "TIPO": "Insertos",
         "KIT": 20,
         "id": "19de389f-c210-4d22-9045-0456b654b151"
@@ -510,7 +510,7 @@
       {
         "CODIGO": "NC",
         "MEDIDA": "Nuez comun CON ESTRIADO INTERNO",
-        "PRECIO": 251.255364312304,
+        "PRECIO": 338.2899838973746,
         "TIPO": "Nuez",
         "KIT": 20,
         "id": "1d232040-5c37-42c1-b379-b20676703bab"
@@ -518,7 +518,7 @@
       {
         "CODIGO": "NI",
         "MEDIDA": "Nuez invertida CON ESTRIADO INTERNO",
-        "PRECIO": 252.45726005094,
+        "PRECIO": 338.83938500760195,
         "TIPO": "Nuez",
         "KIT": 20,
         "id": "7b519ceb-5055-4c5b-a349-aeda61a6bb2e"
@@ -528,7 +528,7 @@
       {
         "CODIGO": "MRIPOSA3",
         "MEDIDA": "Mariposa 3 kl",
-        "PRECIO": 135.57375,
+        "PRECIO": 188.58287499999997,
         "TIPO": "Mariposas",
         "KIT": 20,
         "id": "0a0b1dab-c1b2-44be-a08b-730011d9e267"
@@ -536,7 +536,7 @@
       {
         "CODIGO": "MARIPOSA10",
         "MEDIDA": "Mariposa 10 kl",
-        "PRECIO": 188.914375,
+        "PRECIO": 262.7844375,
         "TIPO": "Mariposas",
         "KIT": 20,
         "id": "f449f6b7-812a-4001-800b-c9124d1a7a80"
@@ -546,7 +546,7 @@
       {
         "CODIGO": "PERNO3",
         "MEDIDA": "Perno 3 kl",
-        "PRECIO": 102.01963225353,
+        "PRECIO": 136.74013188089907,
         "TIPO": "Pernos",
         "KIT": 20,
         "id": "f0a4269d-121d-4c45-9df0-7718e43a0baf"
@@ -554,7 +554,7 @@
       {
         "CODIGO": "PERNO10",
         "MEDIDA": "Perno 10 kl",
-        "PRECIO": 185.316456235298,
+        "PRECIO": 246.51030171899058,
         "TIPO": "Pernos",
         "KIT": 20,
         "id": "4edf625c-f2fa-4616-a635-21e7bd63dfa8"
@@ -564,7 +564,7 @@
       {
         "CODIGO": "PRO",
         "MEDIDA": "Prolongación bajo mesada 5,5 cm con estriado interno",
-        "PRECIO": 444.073603125,
+        "PRECIO": 591.9394112125,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "030c7a6b-6cee-45dd-83ac-09bf6b4a4694"
@@ -572,7 +572,7 @@
       {
         "CODIGO": "PROL",
         "MEDIDA": "Prolongación bajo mesada 6 cm con estriado interno",
-        "PRECIO": 446.982970795455,
+        "PRECIO": 594.291018094091,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "3abb6c5b-323e-4fd1-8a5d-6b6308ad64d4"
@@ -580,7 +580,7 @@
       {
         "CODIGO": "PRO1212",
         "MEDIDA": "Prolongacion 1/2 x 1/2 con estriado interno",
-        "PRECIO": 243.652380411442,
+        "PRECIO": 327.38919501832294,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "cf4320c7-1763-4e6f-bf45-be867fb67d26"
@@ -588,7 +588,7 @@
       {
         "CODIGO": "PRO1234",
         "MEDIDA": "Prolongacion 1/2 x 3/4 con estriado interno",
-        "PRECIO": 272.806271912226,
+        "PRECIO": 365.9734097838245,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "cc27cc98-5860-444d-9fef-0a51d3725e72"
@@ -596,7 +596,7 @@
       {
         "CODIGO": "PRO121",
         "MEDIDA": "Prolongacion 1/2 x 1 con estriado interno",
-        "PRECIO": 351.177374807312,
+        "PRECIO": 471.86651810254943,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "68130a74-6e10-453e-a846-1d6855b6692d"
@@ -604,7 +604,7 @@
       {
         "CODIGO": "PRO12114",
         "MEDIDA": "Prolongacion 1/2 x 1 1/4 con estriado interno",
-        "PRECIO": 433.868539356061,
+        "PRECIO": 581.8573412895455,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "097eaff5-59ac-46a1-8c1c-beba577dfce6"
@@ -612,7 +612,7 @@
       {
         "CODIGO": "PRO12112",
         "MEDIDA": "Prolongacion 1/2 x 1 1/2 con estriado interno",
-        "PRECIO": 487.615784469697,
+        "PRECIO": 654.0965458772728,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "ffdeab91-3780-4929-bfb8-c5109fa55e2c"
@@ -620,7 +620,7 @@
       {
         "CODIGO": "PRO122",
         "MEDIDA": "Prolongacion 1/2 x 2 con estriado interno",
-        "PRECIO": 571.049288431818,
+        "PRECIO": 764.7322778053637,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "3acf70f6-b6f4-4e53-ad12-32c86e629013"
@@ -628,7 +628,7 @@
       {
         "CODIGO": "PRO3434",
         "MEDIDA": "Prolongacion 3/4 x 3/4 con estriado interno",
-        "PRECIO": 466.337953037841,
+        "PRECIO": 621.4899343057441,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "a8ea7300-6884-49d8-be96-80a144f4e3ee"
@@ -636,7 +636,7 @@
       {
         "CODIGO": "PRO341",
         "MEDIDA": "Prolongacion 3/4 x 1 con estriado interno",
-        "PRECIO": 561.349217449218,
+        "PRECIO": 748.7126493506494,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "9ddb8db0-4a9c-4b09-90ef-b3676dc9e005"
@@ -644,7 +644,7 @@
       {
         "CODIGO": "PRO34114",
         "MEDIDA": "Prolongacion 3/4 x 11/4 con estriado interno",
-        "PRECIO": 641.174606373009,
+        "PRECIO": 854.6125862230554,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "b61fd519-78d7-4dfc-b4aa-16d4d024132e"
@@ -652,7 +652,7 @@
       {
         "CODIGO": "PRO34112",
         "MEDIDA": "Prolongacion 3/4 x 11/2 con estriado interno",
-        "PRECIO": 738.835382609478,
+        "PRECIO": 984.9996704882655,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "29b00399-90fd-474b-8ff3-2d94ac813586"
@@ -660,7 +660,7 @@
       {
         "CODIGO": "PRO342",
         "MEDIDA": "Prolongacion 3/4 x 2 con estriado interno",
-        "PRECIO": 890.857478354978,
+        "PRECIO": 1188.0060551948054,
         "TIPO": "Prolongaciones",
         "KIT": 20,
         "id": "a887b066-daff-4fd8-9926-87d5c5f5bcb3"
@@ -670,7 +670,7 @@
       {
         "CODIGO": "RM1418",
         "MEDIDA": "Reducción MM 1/4 x 1/8  P/ virola ",
-        "PRECIO": 110.358680184075,
+        "PRECIO": 148.00193345860816,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "f41c34e6-9e73-4631-85cc-c07eb6da3b61"
@@ -678,7 +678,7 @@
       {
         "CODIGO": "RM3818",
         "MEDIDA": "Reducción MM 3/8 x 1/8  P/ virola ",
-        "PRECIO": 151.200094199498,
+        "PRECIO": 202.211825677279,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "0d1971f5-a1f6-4a90-9061-256ea33aeb44"
@@ -686,7 +686,7 @@
       {
         "CODIGO": "RM3814",
         "MEDIDA": "Reducción MM 3/8 x 1/4  P/ virola ",
-        "PRECIO": 135.46036313697,
+        "PRECIO": 180.2777068465455,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "5a100154-7db9-4abd-9371-f4b8530b503b"
@@ -694,7 +694,7 @@
       {
         "CODIGO": "RM1238",
         "MEDIDA": "Reducción MM 1/2 x 3/8  P/ virola ",
-        "PRECIO": 175.936074221408,
+        "PRECIO": 234.00329875853961,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "16452f51-39f5-483c-8e26-8a9a18aef751"
@@ -702,7 +702,7 @@
       {
         "CODIGO": "RM1214",
         "MEDIDA": "Reducción MM 1/2 x 1/4  P/ virola ",
-        "PRECIO": 171.887097318182,
+        "PRECIO": 228.47644528563637,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "828cde48-e90a-4876-8b45-1e2e5a3b1d76"
@@ -710,7 +710,7 @@
       {
         "CODIGO": "RM1218",
         "MEDIDA": "Reducción MM 1/2 x 1/8  P/ virola ",
-        "PRECIO": 191.435589507576,
+        "PRECIO": 255.90715051318182,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "3fe0fb2a-ffef-4c41-a7ae-88a00bfc8e7c"
@@ -718,7 +718,7 @@
       {
         "CODIGO": "RH1418",
         "MEDIDA": "Reducción HM 1/4 x 1/8  P/ virola ",
-        "PRECIO": 140.248328379718,
+        "PRECIO": 188.89058833121945,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "dbb1b988-2380-495e-b627-f3cdc7e50821"
@@ -726,7 +726,7 @@
       {
         "CODIGO": "RH3814",
         "MEDIDA": "Reducción HM 3/8 x 1/4  P/ virola ",
-        "PRECIO": 160.026511136364,
+        "PRECIO": 213.80284163727282,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "c2f6116d-58f4-4546-b284-a4a6ec629102"
@@ -734,7 +734,7 @@
       {
         "CODIGO": "RH3818",
         "MEDIDA": "Reducción HM 3/8 x 1/8  P/ virola ",
-        "PRECIO": 161.317908012623,
+        "PRECIO": 215.56558122992328,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "109fa5d5-0ff7-4e0a-9629-80e7f06bafcf"
@@ -742,7 +742,7 @@
       {
         "CODIGO": "RH1214",
         "MEDIDA": "Reducción HM 1/2 x 1/4  P/ virola ",
-        "PRECIO": 208.697929200627,
+        "PRECIO": 278.9629061484013,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "b89dc869-3ab1-4cf9-a8ce-51fc96cb600c"
@@ -750,7 +750,7 @@
       {
         "CODIGO": "RH1238",
         "MEDIDA": "Reducción HM 1/2 x 3/8  P/ virola ",
-        "PRECIO": 209.67067415047,
+        "PRECIO": 279.473538152301,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "37095fa5-14f6-4288-a68f-8bbf82751e25"
@@ -758,7 +758,7 @@
       {
         "CODIGO": "RH1218",
         "MEDIDA": "Reducción HM 1/2 x 1/8  P/ virola ",
-        "PRECIO": 235.866713229665,
+        "PRECIO": 316.04829634803826,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "c82f3674-1ca0-4a99-834b-ba0ccdd41869"
@@ -766,7 +766,7 @@
       {
         "CODIGO": "RH3412",
         "MEDIDA": "Reducción HM 3/4 X 1/2  P/ virola para agua",
-        "PRECIO": 518.396361212121,
+        "PRECIO": 696.452217949091,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "99bb52c8-7b0b-4b4d-82cb-58db9f9fd605"
@@ -774,7 +774,7 @@
       {
         "CODIGO": "RH3412N",
         "MEDIDA": "Reducción HM 3/4 x 1/2  P/ virola niquelada",
-        "PRECIO": 568.396361212121,
+        "PRECIO": 761.452217949091,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "f55c94f2-8dd4-4b14-8d83-fa054837d6a3"
@@ -782,7 +782,7 @@
       {
         "CODIGO": "RH3412CROMADA",
         "MEDIDA": "Reducción HM 3/4 x 1/2  P/ virola CROMADA",
-        "PRECIO": 614.382837139394,
+        "PRECIO": 821.2823515217456,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "be5314a7-ab93-4955-9c91-6451362d63e2"
@@ -790,7 +790,7 @@
       {
         "CODIGO": "RH3412GAS",
         "MEDIDA": "Reducción HM 3/4 X 1/2  P/ virola para virola -GAS",
-        "PRECIO": 518.396361212121,
+        "PRECIO": 696.452217949091,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "e5f2a085-e0ea-4a62-8ee6-0c03037d14bd"
@@ -798,7 +798,7 @@
       {
         "CODIGO": "RHM18",
         "MEDIDA": "Reduccion MH 1/8",
-        "PRECIO": 147.284406261333,
+        "PRECIO": 196.74517695040004,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "0771d295-4f3a-445f-94b7-a247e9fda68e"
@@ -806,7 +806,7 @@
       {
         "CODIGO": "RHM14",
         "MEDIDA": "Reduccion MH 1/4",
-        "PRECIO": 144.055846894606,
+        "PRECIO": 193.38902869165454,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "0bdc3b7a-3839-4d84-9425-5c46434c4841"
@@ -814,7 +814,7 @@
       {
         "CODIGO": "RHM38",
         "MEDIDA": "Reduccion MH 3/8",
-        "PRECIO": 159.467972462121,
+        "PRECIO": 212.4775932086364,
         "TIPO": "Reducciones",
         "KIT": 20,
         "id": "cdf2ed3a-3c9a-44fb-98c8-90e92d8c41f1"
@@ -824,7 +824,7 @@
       {
         "CODIGO": "TA18",
         "MEDIDA": "Tapa de 1/8",
-        "PRECIO": 57.8523794574545,
+        "PRECIO": 76.0633704706909,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "e1f7f7f0-2dd5-47ae-afab-ee24e97809f7"
@@ -832,7 +832,7 @@
       {
         "CODIGO": "TA14",
         "MEDIDA": "Tapa de 1/4",
-        "PRECIO": 68.0714207085455,
+        "PRECIO": 91.08211404310912,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "c1d6e6b9-a083-40f0-afc8-39debeadd270"
@@ -840,7 +840,7 @@
       {
         "CODIGO": "TA38",
         "MEDIDA": "Tapa de 3/8",
-        "PRECIO": 89.3297207057416,
+        "PRECIO": 118.55476717220098,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "4c9a8e36-ff47-4e93-b35e-98033bac20ad"
@@ -848,7 +848,7 @@
       {
         "CODIGO": "TA12",
         "MEDIDA": "Tapa de 1/2",
-        "PRECIO": 125.684000231975,
+        "PRECIO": 166.96660132446397,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "0578e058-c162-4e5c-8194-e530f8c9acde"
@@ -858,7 +858,7 @@
       {
         "CODIGO": "TO18",
         "MEDIDA": "Tapón de 1/8",
-        "PRECIO": 72.6127418094546,
+        "PRECIO": 95.38229382429093,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "91d4c073-ac62-4aeb-a929-165dd0df3250"
@@ -866,7 +866,7 @@
       {
         "CODIGO": "TO14",
         "MEDIDA": "Tapón de 1/4",
-        "PRECIO": 62.70583112,
+        "PRECIO": 83.49767961600001,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "ab2e0165-da58-4aa8-b745-5b20057832c1"
@@ -874,7 +874,7 @@
       {
         "CODIGO": "TO38",
         "MEDIDA": "Tapón de 3/8",
-        "PRECIO": 84.6743026765657,
+        "PRECIO": 112.84976356175758,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "4618eb22-b0fa-406d-b84f-c870b556c534"
@@ -882,7 +882,7 @@
       {
         "CODIGO": "TO12",
         "MEDIDA": "Tapón de 1/2",
-        "PRECIO": 129.124455477273,
+        "PRECIO": 172.23409236445457,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "4c422046-360a-4db9-b479-6a0b63966128"
@@ -892,7 +892,7 @@
       {
         "CODIGO": "TM18",
         "MEDIDA": "Tetón Macho de 1/8",
-        "PRECIO": 110.471818814862,
+        "PRECIO": 144.93307232366803,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "b51fbb0e-16d6-47f1-9096-3cc992e3f790"
@@ -900,7 +900,7 @@
       {
         "CODIGO": "TM14",
         "MEDIDA": "Tetón Macho de 1/4",
-        "PRECIO": 115.780864193939,
+        "PRECIO": 155.49316318545456,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "ab1194e2-d469-4141-a559-07783a55678a"
@@ -908,7 +908,7 @@
       {
         "CODIGO": "TM38",
         "MEDIDA": "Tetón Macho de 3/8",
-        "PRECIO": 143.690911379394,
+        "PRECIO": 192.65730004654552,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "999eb411-5a0d-47df-a355-283a0abe3130"
@@ -916,7 +916,7 @@
       {
         "CODIGO": "TM12",
         "MEDIDA": "Tetón Macho de 1/2",
-        "PRECIO": 196.826837435407,
+        "PRECIO": 262.93889060623934,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "893d7ef5-39a7-4e14-8f1d-a122c5333f87"
@@ -924,7 +924,7 @@
       {
         "CODIGO": "TH18",
         "MEDIDA": "Tetón hembra de 1/8",
-        "PRECIO": 116.470584274656,
+        "PRECIO": 153.31675252157473,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "774c8c8f-e0ce-4ca4-a38c-3672f72ef7e2"
@@ -932,7 +932,7 @@
       {
         "CODIGO": "TH14",
         "MEDIDA": "Tetón hembra de 1/4",
-        "PRECIO": 127.200981549713,
+        "PRECIO": 170.41616514988996,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "785346ca-f0fb-4f12-bab5-79615814eca1"
@@ -940,7 +940,7 @@
       {
         "CODIGO": "TH38",
         "MEDIDA": "Tetón hembra de 3/8",
-        "PRECIO": 168.736139617225,
+        "PRECIO": 225.90212910660293,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "67f4d735-dc7d-4d62-b7d0-33a03cde5fed"
@@ -948,7 +948,7 @@
       {
         "CODIGO": "TH12",
         "MEDIDA": "Tetón hembra de 1/2",
-        "PRECIO": 231.685529799043,
+        "PRECIO": 309.8296408549665,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "127e3a1b-fe03-4d80-b848-f519a22cfdea"
@@ -956,7 +956,7 @@
       {
         "CODIGO": "TCM12",
         "MEDIDA": "Tetón curvo 1/2 h",
-        "PRECIO": 311.764375,
+        "PRECIO": 433.6645625,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "be027d95-0cfd-414c-8fc4-1782059ee7f8"
@@ -964,7 +964,7 @@
       {
         "CODIGO": "TC12H",
         "MEDIDA": "Tetón curvo 1/2 m",
-        "PRECIO": 311.764375,
+        "PRECIO": 433.6645625,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "89099388-1ade-465d-89c3-c5b910352c96"
@@ -972,7 +972,7 @@
       {
         "CODIGO": "TM12R",
         "MEDIDA": "Tetón 1/2 Macho x 1/2 ",
-        "PRECIO": 292.065202787879,
+        "PRECIO": 391.86493259490913,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "c1668ec1-0c84-4056-9a8d-b40c9ecb91af"
@@ -980,7 +980,7 @@
       {
         "CODIGO": "TH12R",
         "MEDIDA": "Tetón 1/2 Hembra x 1/2",
-        "PRECIO": 355.522508861244,
+        "PRECIO": 477.3171948181438,
         "TIPO": "Tetones",
         "KIT": 20,
         "id": "103219ab-fed5-4377-a6e6-800508f12a3a"
@@ -990,7 +990,7 @@
       {
         "CODIGO": "T18",
         "MEDIDA": "Tuerca de ajuste x 1/8",
-        "PRECIO": 57.4952366003117,
+        "PRECIO": 75.57587047069092,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "93922987-ce08-4c03-a53d-1f8e7ede1f02"
@@ -998,7 +998,7 @@
       {
         "CODIGO": "T14",
         "MEDIDA": "Tuerca de ajuste x 1/4",
-        "PRECIO": 57.1417114232727,
+        "PRECIO": 75.96556757825456,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "e257d7d4-71af-4b38-ab1e-4854a9e33be6"
@@ -1006,7 +1006,7 @@
       {
         "CODIGO": "T38",
         "MEDIDA": "Tuerca de ajuste x 3/8",
-        "PRECIO": 68.8049825189394,
+        "PRECIO": 90.86886399795455,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "628a42af-c565-422b-9bba-fa5cb7f5b805"
@@ -1014,7 +1014,7 @@
       {
         "CODIGO": "T12",
         "MEDIDA": "Tuerca de ajuste x 1/2",
-        "PRECIO": 149.492493636364,
+        "PRECIO": 199.67012420727278,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "454c7476-7fb9-4da9-95ae-92736ee7b453"
@@ -1022,7 +1022,7 @@
       {
         "CODIGO": "T34",
         "MEDIDA": "Tuerca de ajuste x 3/4 ",
-        "PRECIO": 166.462336363636,
+        "PRECIO": 221.24315247272725,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "ae6e4d06-3bbe-4573-9e21-64bff1d81ed1"
@@ -1030,7 +1030,7 @@
       {
         "CODIGO": "T1418",
         "MEDIDA": "Tuerca de 1/4 x 1/8",
-        "PRECIO": 74.5297540418788,
+        "PRECIO": 99.89773904310911,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "7ce6be54-3f78-4222-a5eb-5e5ef9dbdd45"
@@ -1038,7 +1038,7 @@
       {
         "CODIGO": "T18316",
         "MEDIDA": "Tuerca de 1/8 X 3/16",
-        "PRECIO": 57.4952366003117,
+        "PRECIO": 75.57587047069092,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "2899307a-d8dd-4fdc-ad2f-0fde58c90928"
@@ -1046,7 +1046,7 @@
       {
         "CODIGO": "T38516",
         "MEDIDA": "Tuerca 3/8  x 5/16",
-        "PRECIO": 68.8049825189394,
+        "PRECIO": 90.86886399795455,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "0a01a679-3c23-45c8-995d-cc2860d74c36"
@@ -1054,7 +1054,7 @@
       {
         "CODIGO": "TP18",
         "MEDIDA": "Tuerca Plana 1/8",
-        "PRECIO": 29.0160169541818,
+        "PRECIO": 39.12834368843637,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "2fba8f93-3162-433d-81a7-05c81489dc88"
@@ -1062,7 +1062,7 @@
       {
         "CODIGO": "TP14",
         "MEDIDA": "Tuerca plana 1/4",
-        "PRECIO": 36.4226338981818,
+        "PRECIO": 48.62933750763637,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "be3988d7-7e83-4ddf-bea7-0339ccd664b7"
@@ -1070,7 +1070,7 @@
       {
         "CODIGO": "TP38",
         "MEDIDA": "Tuerca plana 3/8",
-        "PRECIO": 48.6448070454546,
+        "PRECIO": 64.81713399909091,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "67e6eff2-00fc-484d-8095-63da76ee79e6"
@@ -1078,7 +1078,7 @@
       {
         "CODIGO": "TP12",
         "MEDIDA": "Tuerca plana 1/2",
-        "PRECIO": 91.9626632727273,
+        "PRECIO": 122.89673291054547,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "4c70a2ce-181e-4c8b-a238-2c3734145cc7"
@@ -1088,7 +1088,7 @@
       {
         "CODIGO": "UR1238C",
         "MEDIDA": "Unión Reductora de BCE 1/2 x 3/8 CONICA",
-        "PRECIO": 278.83430945634,
+        "PRECIO": 370.5732734333469,
         "TIPO": "Uniones",
         "KIT": 20,
         "id": "769acfaa-a668-4acb-899c-d136dc258010"
@@ -1096,7 +1096,7 @@
       {
         "CODIGO": "UR1238",
         "MEDIDA": "Unión Reductora de BCE 1/2 x 3/8 ",
-        "PRECIO": 274.4746573814,
+        "PRECIO": 365.24509911326146,
         "TIPO": "Uniones",
         "KIT": 20,
         "id": "23a229b1-1ec5-497c-94cb-a405770bfdd0"
@@ -1104,7 +1104,7 @@
       {
         "CODIGO": "UR3412",
         "MEDIDA": "Unión Reductora de BCE 3/4 x 1/2",
-        "PRECIO": 439.069809988636,
+        "PRECIO": 583.6051063032272,
         "TIPO": "Uniones",
         "KIT": 20,
         "id": "f604c622-ca91-4dea-a24e-ddd91ca1c1d6"
@@ -1112,7 +1112,7 @@
       {
         "CODIGO": "UR3438",
         "MEDIDA": "Unión Reductora de BCE 3/4 x 3/8",
-        "PRECIO": 411.606498238636,
+        "PRECIO": 548.2292992002273,
         "TIPO": "Uniones",
         "KIT": 20,
         "id": "c60fa84a-91c0-4d89-bd0a-b28a149dfcf5"
@@ -1122,7 +1122,7 @@
       {
         "CODIGO": "VA18",
         "MEDIDA": "Virolas de aluminio x 1/8",
-        "PRECIO": 14.2,
+        "PRECIO": 18.46,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "080f86fa-f79d-4dd6-a398-5d9f3c268e2c"
@@ -1130,7 +1130,7 @@
       {
         "CODIGO": "VA516",
         "MEDIDA": "Virolas de aluminio x 5/16",
-        "PRECIO": 14.2,
+        "PRECIO": 18.46,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "d1091e52-b0d6-475e-946c-e7a3c148fa6f"
@@ -1138,7 +1138,7 @@
       {
         "CODIGO": "VA38",
         "MEDIDA": "Virolas de aluminio x 3/8",
-        "PRECIO": 15.76,
+        "PRECIO": 20.488,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "7240910d-c6ea-46cb-84fe-7e4b4ec41c94"
@@ -1146,7 +1146,7 @@
       {
         "CODIGO": "VA12",
         "MEDIDA": "Virolas de aluminio x 1/2",
-        "PRECIO": 22,
+        "PRECIO": 28.6,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "6ce2a2d9-cdf6-44a2-9110-165f894d5e63"
@@ -1154,7 +1154,7 @@
       {
         "CODIGO": "VB18",
         "MEDIDA": "Virolas de bronce x 1/8",
-        "PRECIO": 23.9484454939,
+        "PRECIO": 31.3627231896891,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "9eda2392-876e-446b-a61b-63e99bb4c479"
@@ -1162,7 +1162,7 @@
       {
         "CODIGO": "VB516",
         "MEDIDA": "Virolas de bronce x 5/16",
-        "PRECIO": 27.087522576761,
+        "PRECIO": 34.944567429259486,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "4bda0085-e7de-4d38-b7ca-48f9ebf10d06"
@@ -1170,7 +1170,7 @@
       {
         "CODIGO": "VB38",
         "MEDIDA": "Virolas de bronce x 3/8",
-        "PRECIO": 32.4997035573123,
+        "PRECIO": 41.69674723320158,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "fbb635e5-42a5-4f27-b793-7c782fce1e11"
@@ -1178,7 +1178,7 @@
       {
         "CODIGO": "BVB12",
         "MEDIDA": "Virolas de bronce x 1/2",
-        "PRECIO": 46.0389165628892,
+        "PRECIO": 58.6442850249066,
         "TIPO": "Virolas",
         "KIT": 20,
         "id": "61552141-c6dc-4e44-b417-96acc4605a34"
@@ -1190,7 +1190,7 @@
       {
         "CODIGO": "HH18",
         "MEDIDA": "Codo Hembra -Hembra 1/8 ",
-        "PRECIO": 259.813125,
+        "PRECIO": 361.3959375,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "5f163298-9558-481d-bcf6-4d8469c93916"
@@ -1198,7 +1198,7 @@
       {
         "CODIGO": "HH14",
         "MEDIDA": "Codo Hembra -Hembra 1/4",
-        "PRECIO": 198.12,
+        "PRECIO": 275.58618750000005,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "127abe4d-c5af-4775-891a-499d09f7a050"
@@ -1206,7 +1206,7 @@
       {
         "CODIGO": "HH38",
         "MEDIDA": "Codo Hembra - Hembra 3/8",
-        "PRECIO": 263.68875,
+        "PRECIO": 366.793375,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "b936256f-1e22-44e7-a33a-04de70f3ec32"
@@ -1214,7 +1214,7 @@
       {
         "CODIGO": "HM18",
         "MEDIDA": "Codo Hembra -Macho 1/8",
-        "PRECIO": 215.466875,
+        "PRECIO": 299.7109375,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "bdb023be-9769-417d-b3af-7ab131aba9c4"
@@ -1222,7 +1222,7 @@
       {
         "CODIGO": "HM14",
         "MEDIDA": "Codo Hembra -Macho 1 / 4 ",
-        "PRECIO": 223.738125,
+        "PRECIO": 311.22406249999995,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "51baac3c-ec73-4808-bb83-3d1615bfe937"
@@ -1230,7 +1230,7 @@
       {
         "CODIGO": "MH38",
         "MEDIDA": "Codo Hembra  -Macho 3 / 8 ",
-        "PRECIO": 267.5725,
+        "PRECIO": 372.19081250000005,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "b107c467-7393-40c0-8e1d-bae5223bff0f"
@@ -1238,7 +1238,7 @@
       {
         "CODIGO": "MM18",
         "MEDIDA": "Codo Macho - Macho 1/8",
-        "PRECIO": 195.495625,
+        "PRECIO": 271.9315625,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "515f0423-8c41-480c-b0d5-2e7bbf41a688"
@@ -1246,7 +1246,7 @@
       {
         "CODIGO": "MM14",
         "MEDIDA": "Codo Macho - Macho 1 /4 ",
-        "PRECIO": 242.4825,
+        "PRECIO": 337.29231250000004,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "9466d649-a398-4f6f-9122-e37ccbba8724"
@@ -1254,7 +1254,7 @@
       {
         "CODIGO": "MM38",
         "MEDIDA": "Codo Macho - Macho 3 / 8 ",
-        "PRECIO": 294.636875,
+        "PRECIO": 409.8355624999999,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "b36dc5c8-affe-4017-ba92-1715f444afae"
@@ -1264,7 +1264,7 @@
       {
         "CODIGO": "CRHH1218",
         "MEDIDA": "Codo Red. 1/2 hembra x 1/8 hembra",
-        "PRECIO": 314.68125,
+        "PRECIO": 437.7205625000001,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "2b52d051-9a9b-4120-a73f-36270d5d45cb"
@@ -1272,7 +1272,7 @@
       {
         "CODIGO": "CRHH1214",
         "MEDIDA": "Codo Red. 1/2 hembra x 1/4 hembra",
-        "PRECIO": 333.43375,
+        "PRECIO": 463.80993750000005,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "d9a27c1b-4625-4afa-ba41-da519ad6dd2a"
@@ -1280,7 +1280,7 @@
       {
         "CODIGO": "CRHH1238",
         "MEDIDA": "Codo Red. 1/2 hembra x 3/8 hembra",
-        "PRECIO": 378.763125,
+        "PRECIO": 526.8575000000001,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "ff2e3d9c-ee66-461f-b375-8a5fa58bec2b"
@@ -1288,7 +1288,7 @@
       {
         "CODIGO": "CRHH3814",
         "MEDIDA": "Codo Red. 3/8 hembra x 1/4 hembra",
-        "PRECIO": 290.82625,
+        "PRECIO": 404.54375,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "0dca6e9d-353b-49a4-8115-5cdbb7ea5b29"
@@ -1296,7 +1296,7 @@
       {
         "CODIGO": "CRHH3818",
         "MEDIDA": "Codo Red. 3/8 hembra x 1/8 hembra",
-        "PRECIO": 322.326875,
+        "PRECIO": 448.3570000000001,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "9ee0d99e-0f31-40ab-8466-24555344e845"
@@ -1304,7 +1304,7 @@
       {
         "CODIGO": "CRHH1418",
         "MEDIDA": "Codo Red. 1/4 hembra x 1/8 hembra",
-        "PRECIO": 287.67375,
+        "PRECIO": 400.14975000000004,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "41e6cab7-06c3-4f46-9027-80b04493a336"
@@ -1312,7 +1312,7 @@
       {
         "CODIGO": "CRHM1218",
         "MEDIDA": "Codo Red. 1/ 2 hembra x 1 / 8 Macho ",
-        "PRECIO": 307.100625,
+        "PRECIO": 427.1791875,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "1a303687-bd22-42f1-ad53-ba56091f5203"
@@ -1320,7 +1320,7 @@
       {
         "CODIGO": "CRHM1214",
         "MEDIDA": "Codo Red. 1/ 2 hembra x 1 / 4 Macho ",
-        "PRECIO": 284.350625,
+        "PRECIO": 395.53393750000004,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "029ac02e-5b5e-4090-935e-bba6454f5f43"
@@ -1328,7 +1328,7 @@
       {
         "CODIGO": "CRHM1238",
         "MEDIDA": "Codo Red. 1/ 2 hembra x 3 / 8 Macho ",
-        "PRECIO": 311.211875,
+        "PRECIO": 432.89349999999996,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "3000bc78-e555-4edc-a4d7-5385f2d597fe"
@@ -1336,7 +1336,7 @@
       {
         "CODIGO": "CRHM3925",
         "MEDIDA": "Codo Red. 3/8 hembra x 1/4 Macho ",
-        "PRECIO": 289.49375,
+        "PRECIO": 402.68475,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "b494eb1b-a1f5-4b9c-a78d-a8f23b2b8145"
@@ -1344,7 +1344,7 @@
       {
         "CODIGO": "CRHM3818",
         "MEDIDA": "Codo Red. 3/8 hembra x 1/8 Macho ",
-        "PRECIO": 289.49375,
+        "PRECIO": 402.68475,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "d3a43fe9-ca11-4e05-bcfc-9a3289bbeb1c"
@@ -1352,7 +1352,7 @@
       {
         "CODIGO": "CRHM1438",
         "MEDIDA": "Codo Red. 1/4 hembra x 3/8 Macho ",
-        "PRECIO": 294.051875,
+        "PRECIO": 409.0222500000001,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "86f94c6c-241a-4ab5-ad99-e3ec11435e34"
@@ -1360,7 +1360,7 @@
       {
         "CODIGO": "CRHM1814",
         "MEDIDA": "Codo Red. 1/8 hembra x 1/4 Macho ",
-        "PRECIO": 294.051875,
+        "PRECIO": 409.0222500000001,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "b5c16284-3c20-4dda-b249-f9ba91ddb65f"
@@ -1368,7 +1368,7 @@
       {
         "CODIGO": "CRHM1418",
         "MEDIDA": "Codo Red. 1/4 hembra x 1/8 Macho ",
-        "PRECIO": 287.67375,
+        "PRECIO": 400.14975000000004,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "5ea6e8b7-9341-41c1-a73e-69174f05d02c"
@@ -1376,7 +1376,7 @@
       {
         "CODIGO": "CR1218",
         "MEDIDA": "Codo Red. 1/ 2 Macho x 1 / 8 Macho ",
-        "PRECIO": 280.450625,
+        "PRECIO": 390.10481250000004,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "aa6f463d-5a07-4ca9-8b10-00ef930a7ab2"
@@ -1384,7 +1384,7 @@
       {
         "CODIGO": "CR1214",
         "MEDIDA": "Codo Red. 1/ 2 Macho x 1 / 4 Macho ",
-        "PRECIO": 244.35125,
+        "PRECIO": 339.89068750000007,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "e759ee35-0b85-4f50-95b4-b2f73af6041d"
@@ -1392,7 +1392,7 @@
       {
         "CODIGO": "CR1238",
         "MEDIDA": "Codo Red. 1/ 2 Macho x 3 / 8 Macho ",
-        "PRECIO": 300.941875,
+        "PRECIO": 418.613,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "7dc3a07a-73d3-46ad-aa12-9ad38e318353"
@@ -1400,7 +1400,7 @@
       {
         "CODIGO": "CRM3814",
         "MEDIDA": "Codo Red. 3/8 Macho x 1/4 Macho ",
-        "PRECIO": 311.211875,
+        "PRECIO": 432.89349999999996,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "8352eabc-f351-4aa8-b561-8605a3a03306"
@@ -1408,7 +1408,7 @@
       {
         "CODIGO": "CRM3818",
         "MEDIDA": "Codo Red. 3/8 Macho x 1/8 Macho ",
-        "PRECIO": 311.211875,
+        "PRECIO": 432.89349999999996,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "32b29985-dd40-4804-a5e6-fa394a1bc55d"
@@ -1416,7 +1416,7 @@
       {
         "CODIGO": "CR1418",
         "MEDIDA": "Codo Red. 1/4 Macho x 1/8 Macho ",
-        "PRECIO": 215.466875,
+        "PRECIO": 299.7109375,
         "TIPO": "Codos Reduccion",
         "KIT": 20,
         "id": "fdf55933-9431-4fcf-839d-409cea19acd3"
@@ -1426,7 +1426,7 @@
       {
         "CODIGO": "THH18",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 1/8",
-        "PRECIO": 352.86875,
+        "PRECIO": 490.8393749999999,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "11a7355f-68ad-471c-834a-deecfe1a2eb9"
@@ -1434,7 +1434,7 @@
       {
         "CODIGO": "THH14",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 1/4",
-        "PRECIO": 250.680625,
+        "PRECIO": 348.6998125,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "6ea4568b-65a6-4b8c-9a8a-f8d073b18b2a"
@@ -1442,7 +1442,7 @@
       {
         "CODIGO": "THH38",
         "MEDIDA": "Tee Hembra - Hembra - Hembra 3/8",
-        "PRECIO": 341.10375,
+        "PRECIO": 474.47806249999996,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "b234a9d3-e30f-40b8-a8b1-3e70ff47a944"
@@ -1450,7 +1450,7 @@
       {
         "CODIGO": "TMM18",
         "MEDIDA": "Tee Macho - Macho - Macho 1/8",
-        "PRECIO": 283.765625,
+        "PRECIO": 394.72062500000004,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "f1f4f098-2a6f-4215-9c86-d85c59d07ef4"
@@ -1458,7 +1458,7 @@
       {
         "CODIGO": "TMM14",
         "MEDIDA": "Tee Macho - Macho - Macho 1/ 4",
-        "PRECIO": 317.785,
+        "PRECIO": 442.04062500000003,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "7a209e33-15ff-4f7f-99bd-f48cae72f20b"
@@ -1466,7 +1466,7 @@
       {
         "CODIGO": "TMM38",
         "MEDIDA": "Tee Macho - Macho - Macho 3/ 8",
-        "PRECIO": 414.06625,
+        "PRECIO": 575.9625625,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "09188853-5f23-4de8-b95b-6a3ebc4a9cef"
@@ -1474,7 +1474,7 @@
       {
         "CODIGO": "TM",
         "MEDIDA": "Tee manguera para gas ",
-        "PRECIO": 267.085,
+        "PRECIO": 371.5148125,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "0ac9bca4-bdf7-4566-9d27-6b9a3cc64c65"
@@ -1484,7 +1484,7 @@
       {
         "CODIGO": "CMG",
         "MEDIDA": "Codo manguera para gas",
-        "PRECIO": 235.7875,
+        "PRECIO": 327.97618750000004,
         "TIPO": "Codo Manguera",
         "KIT": 20,
         "id": "684d6ea9-4675-46c9-bec9-1798fa81ec17"
@@ -1494,7 +1494,7 @@
       {
         "CODIGO": "UM",
         "MEDIDA": "Union manguera",
-        "PRECIO": 91.2060826060606,
+        "PRECIO": 122.47472576654545,
         "TIPO": "Union Manguera",
         "KIT": 20,
         "id": "ac1ca906-07dc-41c8-a980-3d0f07980e0f"
@@ -1506,7 +1506,7 @@
       {
         "CODIGO": "TEURO30",
         "MEDIDA": "Termocuplas Euro 30 cm",
-        "PRECIO": 424.56,
+        "PRECIO": 551.928,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "bf7308b0-75d8-4094-b0ca-e83ec4c9b7ca"
@@ -1514,7 +1514,7 @@
       {
         "CODIGO": "TEURO50",
         "MEDIDA": "Termocuplas Euro 50 cm",
-        "PRECIO": 526.82,
+        "PRECIO": 684.8660000000001,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "d2da2dc5-c938-4695-ae53-eb7e2b28fbcc"
@@ -1522,7 +1522,7 @@
       {
         "CODIGO": "TEURO60",
         "MEDIDA": "Termocuplas Euro 60 cm",
-        "PRECIO": 564,
+        "PRECIO": 733.2,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "d396a5e9-6d17-4891-931c-2af457dd7d77"
@@ -1530,7 +1530,7 @@
       {
         "CODIGO": "TEURO70",
         "MEDIDA": "Termocuplas Euro 70 cm",
-        "PRECIO": 594.86,
+        "PRECIO": 773.3180000000001,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "c82599a5-e2b5-4be7-86c8-430190f80657"
@@ -1538,7 +1538,7 @@
       {
         "CODIGO": "TEURO80",
         "MEDIDA": "Termocuplas Euro 80 cm",
-        "PRECIO": 635.3,
+        "PRECIO": 825.89,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "f7dcaba3-7a22-41fd-952e-76a30260a697"
@@ -1546,7 +1546,7 @@
       {
         "CODIGO": "TEURO90",
         "MEDIDA": "Termocuplas Euro 90 cm",
-        "PRECIO": 678.84,
+        "PRECIO": 882.4920000000001,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "d09571a3-df96-4a91-9c18-50fdbdaced26"
@@ -1554,7 +1554,7 @@
       {
         "CODIGO": "TSM820",
         "MEDIDA": "Termocuplas simil SM8 20 CM",
-        "PRECIO": 469.63,
+        "PRECIO": 610.519,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "00d19119-625d-439b-9418-4bfdb391063e"
@@ -1562,21 +1562,21 @@
       {
         "CODIGO": "TSM830",
         "MEDIDA": "Termocuplas simil SM8 30 CM",
-        "PRECIO": 692.74,
+        "PRECIO": 900.562,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "6cebdb43-f576-44e4-8053-221ca6ee75bb"
       },
       {
         "MEDIDA": "Termocuplas simil SIT 30 CM",
-        "PRECIO": 424.56,
+        "PRECIO": 0,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "786d6912-5808-44f0-a661-bba14622d409"
       },
       {
         "MEDIDA": "Termocuplas simil SIT 60 CM",
-        "PRECIO": 564,
+        "PRECIO": 0,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "d746ae95-a3da-4332-8b52-ebeda761cae7"
@@ -1584,7 +1584,7 @@
       {
         "CODIGO": "TSOU40",
         "MEDIDA": "Termocuplas simil Soporte Orbis Universal",
-        "PRECIO": 486.5,
+        "PRECIO": 632.45,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "b8277bba-68e9-49d9-a0d6-f5509466a1cb"
@@ -1592,7 +1592,7 @@
       {
         "CODIGO": "TSEGUER100",
         "MEDIDA": "Termocuplas SEGEUR 100 CM",
-        "PRECIO": 712.77,
+        "PRECIO": 926.601,
         "TIPO": "Termocuplas solas",
         "KIT": 10,
         "id": "e29eca41-8466-4f24-a39c-8943ffc89833"
@@ -1602,7 +1602,7 @@
       {
         "CODIGO": "TI20",
         "MEDIDA": "Termocupla intercambiable x 20 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 578.142208,
+        "PRECIO": 789.1659776000001,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "7e82e6e4-4057-48df-808e-0ea03eef6893"
@@ -1610,7 +1610,7 @@
       {
         "CODIGO": "TI30",
         "MEDIDA": "Termocupla intercambiable x 30 cm 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 608.147456,
+        "PRECIO": 830.1203456000001,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "8943aa40-d8b2-4a2e-bcfb-f66ffafd571f"
@@ -1618,7 +1618,7 @@
       {
         "CODIGO": "TI40",
         "MEDIDA": "Termocupla intercambiable x 40 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 691.862528,
+        "PRECIO": 944.3918848000002,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "7a256760-8f1c-43b5-ba80-faa8805b8c1e"
@@ -1626,7 +1626,7 @@
       {
         "CODIGO": "TI50",
         "MEDIDA": "Termocupla intercambiable x 50 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 785.6128,
+        "PRECIO": 1072.361472,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "84f8b11e-d893-44ed-8301-e22c53af6100"
@@ -1634,7 +1634,7 @@
       {
         "CODIGO": "TI60",
         "MEDIDA": "Termocupla intercambiable x 60 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 879.37024,
+        "PRECIO": 1200.3403776000002,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "d8def0e6-0e8d-4792-a4a7-dcfce055d657"
@@ -1642,7 +1642,7 @@
       {
         "CODIGO": "TI70",
         "MEDIDA": "Termocupla intercambiable x 70 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 973.12768,
+        "PRECIO": 1328.3192832,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "8ed33395-d8cf-48fc-80f7-7a6e7e095ae4"
@@ -1650,7 +1650,7 @@
       {
         "CODIGO": "TI80",
         "MEDIDA": "Termocupla intercambiable x 80 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1066.906624,
+        "PRECIO": 1456.3261439999999,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "6440a441-0e2d-4587-a882-5e993e547df0"
@@ -1658,7 +1658,7 @@
       {
         "CODIGO": "TI100",
         "MEDIDA": "Termocupla intercambiable x 100 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1255.86944,
+        "PRECIO": 1714.2594560000002,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "bd2e964b-13a0-4a73-b9cc-74e8d11215a4"
@@ -1666,7 +1666,7 @@
       {
         "CODIGO": "TI110",
         "MEDIDA": "Termocupla intercambiable x 110 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1336.86784,
+        "PRECIO": 1824.822272,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "23c8694c-2fdd-426b-839a-e854a9c88e78"
@@ -1674,7 +1674,7 @@
       {
         "CODIGO": "TI120",
         "MEDIDA": "Termocupla intercambiable x 120 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1446.695936,
+        "PRECIO": 1974.7366911999995,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "057696da-08a1-47ba-8c76-a55ad6a6711e"
@@ -1682,7 +1682,7 @@
       {
         "CODIGO": "TI130",
         "MEDIDA": "Termocupla intercambiable x 130 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1542.367232,
+        "PRECIO": 2105.3340672,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "4d3e87c9-a2ab-4968-9dae-a9f05145367b"
@@ -1690,7 +1690,7 @@
       {
         "CODIGO": "TI150",
         "MEDIDA": "Termocupla intercambiable x 150 cm - 8 X 1 C/TUERCA Y SOPORTE",
-        "PRECIO": 1734.290432,
+        "PRECIO": 2367.3022464,
         "TIPO": "Termocuplas c/ tuerca & soporte intercamb. ",
         "KIT": 10,
         "id": "c6f2356d-cb4c-4614-a171-92081fb79b46"
@@ -1700,7 +1700,7 @@
       {
         "CODIGO": "TIA40",
         "MEDIDA": "Termocupla intercambiable AMERICANA x 40 cm",
-        "PRECIO": 834.885632,
+        "PRECIO": 1139.6216832,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 10,
         "id": "9756ce77-a260-4e2c-aea5-506907098747"
@@ -1708,7 +1708,7 @@
       {
         "CODIGO": "TSI20",
         "MEDIDA": "Termocupla intercambiable sola x 20 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 489.276928,
+        "PRECIO": 667.8637056,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "620b4cc4-02ef-44a9-87f3-2b5391f79960"
@@ -1716,7 +1716,7 @@
       {
         "CODIGO": "TSI30",
         "MEDIDA": "Termocupla intercambiable sola x 30 cm  SIN TUERCA NI SOPORTE",
-        "PRECIO": 519.282176,
+        "PRECIO": 708.8180736,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "1824ab67-ac86-4482-8b08-feee49f6e994"
@@ -1724,7 +1724,7 @@
       {
         "CODIGO": "TSI40",
         "MEDIDA": "Termocupla intercambiable sola x 40 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 602.997248,
+        "PRECIO": 823.0896128000002,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "c748f492-dc35-4caa-b40c-b5379fe82806"
@@ -1732,7 +1732,7 @@
       {
         "CODIGO": "TSI50",
         "MEDIDA": "Termocupla intercambiable sola x 50 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 696.74752,
+        "PRECIO": 951.0591999999999,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "4547e358-edeb-4a63-b749-919e26ec15c4"
@@ -1740,7 +1740,7 @@
       {
         "CODIGO": "TSI60",
         "MEDIDA": "Termocupla intercambiable sola x 60 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 790.50496,
+        "PRECIO": 1079.0381056000003,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "c22912ec-866b-468a-885e-a4b4164b0e16"
@@ -1748,7 +1748,7 @@
       {
         "CODIGO": "TSI70",
         "MEDIDA": "Termocupla intercambiable sola x 70 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 884.2624,
+        "PRECIO": 1207.0170112,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "4d4b6f5d-dfd8-4b90-91d6-d80407dbdf68"
@@ -1756,7 +1756,7 @@
       {
         "CODIGO": "TSI80",
         "MEDIDA": "Termocupla intercambiable solax 80 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 978.041344,
+        "PRECIO": 1335.0238720000002,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "2997a285-af58-40f4-a219-9308d83badb9"
@@ -1764,7 +1764,7 @@
       {
         "CODIGO": "TSI100",
         "MEDIDA": "Termocupla intercambiable sola x 100 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 1167.00416,
+        "PRECIO": 1592.957184,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "1737cf52-7950-4036-b23c-3d2e70919511"
@@ -1772,7 +1772,7 @@
       {
         "CODIGO": "TSI120",
         "MEDIDA": "Termocupla intercambiable sola x 120 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 1357.830656,
+        "PRECIO": 1853.4344191999999,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "a4f83eaa-79f9-470b-a937-be15c7a556e9"
@@ -1780,7 +1780,7 @@
       {
         "CODIGO": "TSI150",
         "MEDIDA": "Termocupla intercambiable solax 150 cm SIN TUERCA NI SOPORTE",
-        "PRECIO": 1645.425152,
+        "PRECIO": 2245.9999743999997,
         "TIPO": "Termocuplas intercambiables solas",
         "KIT": 20,
         "id": "031a7efc-6ed4-4636-8cad-6f8c41a65d3b"
@@ -1790,7 +1790,7 @@
       {
         "CODIGO": "T8X1",
         "MEDIDA": "Soporte8 X 1",
-        "PRECIO": 124.450816,
+        "PRECIO": 72.730112,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "377bf0b7-4cb8-4a7b-98eb-d3eb7d387c23"
@@ -1798,7 +1798,7 @@
       {
         "CODIGO": "TSL",
         "MEDIDA": "Soporte Longvie",
-        "PRECIO": 124.450816,
+        "PRECIO": 169.874432,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "8af74c13-b8a9-48f2-aff1-4c2d59786e1f"
@@ -1806,7 +1806,7 @@
       {
         "CODIGO": "TSO ",
         "MEDIDA": "Soporte Orbis",
-        "PRECIO": 124.450816,
+        "PRECIO": 169.874432,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "4e2fcd52-dca9-42db-ab11-6b9d6f38d673"
@@ -1814,7 +1814,7 @@
       {
         "CODIGO": "TSE",
         "MEDIDA": "Soporte Eitar",
-        "PRECIO": 124.450816,
+        "PRECIO": 169.874432,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "8df28ca8-6e39-423c-8b98-e1c2a0d46bc5"
@@ -1822,7 +1822,7 @@
       {
         "CODIGO": "TSR",
         "MEDIDA": "Soporte Rheen ",
-        "PRECIO": 173.917184,
+        "PRECIO": 237.3955584,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "68edec7a-cd1f-49fc-bcb6-957d25b29a18"
@@ -1830,7 +1830,7 @@
       {
         "CODIGO": "TSE2000",
         "MEDIDA": "Soporte Eskabe 2000",
-        "PRECIO": 124.450816,
+        "PRECIO": 169.874432,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "82b05b77-558b-44d4-9808-2809de0e188d"
@@ -1838,7 +1838,7 @@
       {
         "CODIGO": "TSE5000",
         "MEDIDA": "Soporte Eskabe 5000",
-        "PRECIO": 124.450816,
+        "PRECIO": 169.874432,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "eb7738c2-5e8e-49a2-9281-63c962ccd7cf"
@@ -1846,7 +1846,7 @@
       {
         "CODIGO": "TSC",
         "MEDIDA": "Soporte CTZ",
-        "PRECIO": 145.316864,
+        "PRECIO": 198.36078080000001,
         "TIPO": "Soportes",
         "KIT": 20,
         "id": "0668c3a0-5ad3-4ea7-abf6-7523c569fcc3"
@@ -1856,7 +1856,7 @@
       {
         "CODIGO": "T8X1",
         "MEDIDA": "Tuerca 8 X 1",
-        "PRECIO": 53.279744,
+        "PRECIO": 72.730112,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "2da42d61-95f9-4930-904b-35e6beba5572"
@@ -1864,7 +1864,7 @@
       {
         "CODIGO": "TTE",
         "MEDIDA": "Tuerca Eitar",
-        "PRECIO": 53.279744,
+        "PRECIO": 72.730112,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "be598d08-4656-483a-ac00-4906a2296332"
@@ -1872,7 +1872,7 @@
       {
         "CODIGO": "TTR",
         "MEDIDA": "Tuerca Rheen ",
-        "PRECIO": 53.279744,
+        "PRECIO": 72.730112,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "118d1b9d-6f91-4067-b3df-08f309a4f53d"
@@ -1880,7 +1880,7 @@
       {
         "CODIGO": "TTO",
         "MEDIDA": "Tuerca Ottonello",
-        "PRECIO": 53.279744,
+        "PRECIO": 72.730112,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "224534e2-2647-4d9c-ae7c-5e33f25946c8"
@@ -1888,7 +1888,7 @@
       {
         "CODIGO": "TTES",
         "MEDIDA": "Tuerca Eskabe",
-        "PRECIO": 70.884352,
+        "PRECIO": 96.7529472,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "648563e7-18e5-4c4e-ad83-405c2c858103"
@@ -1896,7 +1896,7 @@
       {
         "CODIGO": "TTA",
         "MEDIDA": "Tuerca de ajuste plana 8 x 1",
-        "PRECIO": 34.671616,
+        "PRECIO": 47.3281536,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "2af91e86-ff28-44f9-8a9d-8dee76c4850b"
@@ -1904,7 +1904,7 @@
       {
         "CODIGO": "TP91",
         "MEDIDA": "Tuerca PARTIDA  9x1",
-        "PRECIO": 63.18,
+        "PRECIO": 114.9876,
         "TIPO": "Tuercas",
         "KIT": 20,
         "id": "a8e0297d-fee6-430d-bbb8-7b13efcceda9"
@@ -1916,7 +1916,7 @@
       {
         "CODIGO": "ED12",
         "MEDIDA": "Espiga doble 1/2",
-        "PRECIO": 11.37162,
+        "PRECIO": 15.968641000000002,
         "TIPO": "Espigas doble",
         "KIT": 20,
         "id": "6b6e743f-2c99-4d40-8240-65501887669f"
@@ -1924,7 +1924,7 @@
       {
         "CODIGO": "ED34",
         "MEDIDA": "Espiga doble 3/4",
-        "PRECIO": 16.62128,
+        "PRECIO": 23.339575999999997,
         "TIPO": "Espigas doble",
         "KIT": 20,
         "id": "001eedd2-a074-4b14-9bf6-e1a9c9d6a9ba"
@@ -1932,7 +1932,7 @@
       {
         "CODIGO": "ED1",
         "MEDIDA": "Espiga doble 1",
-        "PRECIO": 23.16353,
+        "PRECIO": 32.524895,
         "TIPO": "Espigas doble",
         "KIT": 20,
         "id": "e34c2997-c223-476b-be22-ce3c5623e4df"
@@ -1942,7 +1942,7 @@
       {
         "CODIGO": "ERM12",
         "MEDIDA": "Espiga rosca macho 1/2",
-        "PRECIO": 11.38748,
+        "PRECIO": 15.989259000000002,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "cc662eb5-5fee-41c6-8ae7-c55ebed86f16"
@@ -1950,7 +1950,7 @@
       {
         "CODIGO": "ERM34",
         "MEDIDA": "Espiga rosca macho 3/4",
-        "PRECIO": 17.96145,
+        "PRECIO": 25.215814,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "6a1401e6-8cfd-4c02-ba77-a732badecc5a"
@@ -1958,7 +1958,7 @@
       {
         "CODIGO": "ERM1",
         "MEDIDA": "Espiga rosca macho 1",
-        "PRECIO": 25.16189,
+        "PRECIO": 35.328943,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "6611f113-22a6-4812-ab49-f154450c30ca"
@@ -1966,7 +1966,7 @@
       {
         "CODIGO": "ERH12",
         "MEDIDA": "Espiga rosca hembra 1/2",
-        "PRECIO": 23.34592,
+        "PRECIO": 32.78262,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "dc6e23a1-304c-4391-af39-c1066cdb122d"
@@ -1974,7 +1974,7 @@
       {
         "CODIGO": "ERH34",
         "MEDIDA": "Espiga rosca hembra 3/4",
-        "PRECIO": 32.90157,
+        "PRECIO": 46.194629,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "68632d85-3bce-49a4-87bc-e2df33d6a204"
@@ -1982,7 +1982,7 @@
       {
         "CODIGO": "ERH1",
         "MEDIDA": "Espiga rosca hembra 1",
-        "PRECIO": 41.7118,
+        "PRECIO": 58.565429,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "7d2de5e0-e2a1-4728-bd00-e743774f813a"
@@ -1990,7 +1990,7 @@
       {
         "CODIGO": "ERM134",
         "MEDIDA": "Espiga rosca macho reduccion 1 x 3/4",
-        "PRECIO": 28.18322,
+        "PRECIO": 39.565942,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "dffea58a-f0d8-4dda-825d-6176307f0212"
@@ -1998,7 +1998,7 @@
       {
         "CODIGO": "ERM3412",
         "MEDIDA": "Espiga rosca macho reduccion 3/4 x 1/2",
-        "PRECIO": 20.37217,
+        "PRECIO": 28.607475000000004,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "986ae030-c2ee-4498-aac5-fd2f7b22dbd8"
@@ -2006,7 +2006,7 @@
       {
         "CODIGO": "ERM1234",
         "MEDIDA": "Espiga rosca macho reduccion 1/2 x 3/4",
-        "PRECIO": 21.38721,
+        "PRECIO": 30.030117000000004,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "e02f2605-eef8-4486-84c6-aa99ae702ba9"
@@ -2014,7 +2014,7 @@
       {
         "CODIGO": "ERM341 ",
         "MEDIDA": "Espiga rosca macho reduccion 3/4 x 1",
-        "PRECIO": 28.61144,
+        "PRECIO": 40.174172999999996,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "d39fc382-c039-4244-81c7-0c7c94001873"
@@ -2022,7 +2022,7 @@
       {
         "CODIGO": "ERM121",
         "MEDIDA": "Espiga rosca macho reduccion 1/2 x 1",
-        "PRECIO": 28.61144,
+        "PRECIO": 40.174172999999996,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "dc4be37e-8d23-4faf-89f6-a78458bcabb5"
@@ -2030,7 +2030,7 @@
       {
         "CODIGO": "ERH1234",
         "MEDIDA": "Espiga rosca hembra reduccion 1/2 x 3/4",
-        "PRECIO": 35.81981,
+        "PRECIO": 50.287302000000004,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "94d717e7-ef9e-4860-9554-21f1187b4732"
@@ -2038,7 +2038,7 @@
       {
         "CODIGO": "ERH341",
         "MEDIDA": "Espiga rosca hembra reduccion 3/4 x 1",
-        "PRECIO": 41.17256,
+        "PRECIO": 57.802563,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "2ab1f91a-7615-4aad-86b8-8cc77e0d5068"
@@ -2046,7 +2046,7 @@
       {
         "CODIGO": "ERH121",
         "MEDIDA": "Espiga rosca hembra reduccion 1/2 x 1",
-        "PRECIO": 41.17256,
+        "PRECIO": 57.802563,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "fb6e2241-e189-40ce-bed0-e7ba689ee4ec"
@@ -2054,7 +2054,7 @@
       {
         "CODIGO": "ERH134",
         "MEDIDA": "Espiga rosca hembra reduccion 1 X 3/4",
-        "PRECIO": 41.17256,
+        "PRECIO": 57.802563,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "c365f014-40b9-480f-a257-40e06900f57c"
@@ -2062,7 +2062,7 @@
       {
         "CODIGO": "ERH112",
         "MEDIDA": "Espiga rosca hembra reduccion 1 X 1/2",
-        "PRECIO": 41.17256,
+        "PRECIO": 57.802563,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "5e326096-0b21-42d0-99fa-e067400d9cc8"
@@ -2070,7 +2070,7 @@
       {
         "CODIGO": "ERH3412",
         "MEDIDA": "Espiga rosca hembra reduccion 3/4 X 1/2",
-        "PRECIO": 41.17256,
+        "PRECIO": 57.802563,
         "TIPO": "Espigas rosca",
         "KIT": 20,
         "id": "3773d0f6-dde7-4839-bf06-3b86c5e56f61"
@@ -2080,7 +2080,7 @@
       {
         "CODIGO": "CODOE12",
         "MEDIDA": "Codo espiga doble 1/2",
-        "PRECIO": 22.81461,
+        "PRECIO": 32.030063,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "ca84e087-fb59-4c52-8de1-d0044a38c223"
@@ -2088,7 +2088,7 @@
       {
         "CODIGO": "CODOE34",
         "MEDIDA": "Codo espiga doble 3/4",
-        "PRECIO": 30.26088,
+        "PRECIO": 42.483389,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "021533d5-615d-46b8-9bf3-fb9ebd712dde"
@@ -2096,7 +2096,7 @@
       {
         "CODIGO": "CODOE1",
         "MEDIDA": "Codo espiga doble 1",
-        "PRECIO": 45.1217,
+        "PRECIO": 63.348805,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "6f1dfdf8-c3ff-407f-afd3-6436178df5c0"
@@ -2104,7 +2104,7 @@
       {
         "CODIGO": "CODOERM12",
         "MEDIDA": "Codo espiga rosca macho 1/2",
-        "PRECIO": 35.93876,
+        "PRECIO": 50.46255500000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "3a207028-9ba3-4a7d-b045-052b699aac1d"
@@ -2112,7 +2112,7 @@
       {
         "CODIGO": "CODOERM34",
         "MEDIDA": "Codo espiga rosca macho 3/4",
-        "PRECIO": 56.92154,
+        "PRECIO": 79.915368,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "54254718-bb14-4fe8-ad30-d29bf5057d18"
@@ -2120,7 +2120,7 @@
       {
         "CODIGO": "CODOERM1",
         "MEDIDA": "Codo espiga rosca macho 1",
-        "PRECIO": 74.39133,
+        "PRECIO": 104.44047900000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "f8723138-3c04-4586-8d4e-67f25641bd7f"
@@ -2128,7 +2128,7 @@
       {
         "CODIGO": "CODOERH12",
         "MEDIDA": "Codo espiga rosca hembra 1/2",
-        "PRECIO": 26.89856,
+        "PRECIO": 37.761867,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "e388dc53-4eb5-4185-88a2-c619983670d8"
@@ -2136,7 +2136,7 @@
       {
         "CODIGO": "CODOERH34",
         "MEDIDA": "Codo espiga rosca hembra 3/4",
-        "PRECIO": 39.14248,
+        "PRECIO": 54.95727900000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "a6f83289-35e9-4669-9d98-7b56b92dfc66"
@@ -2144,7 +2144,7 @@
       {
         "CODIGO": "CODOERH1",
         "MEDIDA": "Codo espiga rosca hembra 1",
-        "PRECIO": 74.51821,
+        "PRECIO": 104.62604099999999,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "08f5a18b-2062-418d-b980-7f18d5b9e151"
@@ -2154,7 +2154,7 @@
       {
         "CODIGO": "ER3412",
         "MEDIDA": "Espiga reduccion 3/4 x 1/2",
-        "PRECIO": 19.34127,
+        "PRECIO": 27.153906,
         "TIPO": "Espigas reducción",
         "KIT": 20,
         "id": "e753aeea-444b-4444-abad-10e2ceca01f3"
@@ -2162,7 +2162,7 @@
       {
         "CODIGO": "ER134",
         "MEDIDA": "Espiga reduccion 1 x 3/4",
-        "PRECIO": 25.62183,
+        "PRECIO": 35.968101,
         "TIPO": "Espigas reducción",
         "KIT": 20,
         "id": "13c23561-f74a-4352-b7c0-1c5718302cac"
@@ -2170,7 +2170,7 @@
       {
         "CODIGO": "ER112",
         "MEDIDA": "Espiga reduccion 1 x 1/2",
-        "PRECIO": 25.62183,
+        "PRECIO": 35.968101,
         "TIPO": "Espigas reducción",
         "KIT": 20,
         "id": "e5705ee1-0875-4c68-816c-7d7923841402"
@@ -2180,7 +2180,7 @@
       {
         "CODIGO": "TEEE12P",
         "MEDIDA": "Tee triple enchufe 1/2",
-        "PRECIO": 33.02845,
+        "PRECIO": 46.369882,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "0e85ef6c-3350-4961-95fa-0a5e5e6a24b4"
@@ -2188,7 +2188,7 @@
       {
         "CODIGO": "TEEE34P",
         "MEDIDA": "Tee triple enchufe  3/4",
-        "PRECIO": 42.59996,
+        "PRECIO": 59.81281800000001,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "d05467fc-8048-4f66-87db-4cf4fe7cd61d"
@@ -2196,7 +2196,7 @@
       {
         "CODIGO": "TEEE1P",
         "MEDIDA": "Tee triple enchufe 1",
-        "PRECIO": 71.04487,
+        "PRECIO": 99.74988400000001,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "208cba3a-4893-4e4d-95b5-4cd980e00e34"
@@ -2204,7 +2204,7 @@
       {
         "CODIGO": "TEERM12P",
         "MEDIDA": "Tee enchufe rosca macho 1/2",
-        "PRECIO": 59.80806,
+        "PRECIO": 83.96680500000001,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "eb238ea4-bda7-47b4-b9d4-310555ea8658"
@@ -2212,7 +2212,7 @@
       {
         "CODIGO": "TEERM34P",
         "MEDIDA": "Tee enchufe rosca macho 3/4",
-        "PRECIO": 69.4668,
+        "PRECIO": 97.533449,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "2ef7bbf1-5fa9-4390-99e1-4664b7556e39"
@@ -2220,7 +2220,7 @@
       {
         "CODIGO": "TEERM1P",
         "MEDIDA": "Tee enchufe rosca macho 1",
-        "PRECIO": 91.96421,
+        "PRECIO": 129.120225,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "c2b0d9e6-6215-4bb4-8a06-7e8584b3f05f"
@@ -2228,7 +2228,7 @@
       {
         "CODIGO": "TEERH12P",
         "MEDIDA": "Tee enchufe rosca hembra 1/2",
-        "PRECIO": 55.51793,
+        "PRECIO": 77.94634900000001,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "aa05a732-7f74-487a-bf4d-c7b2c65b57d4"
@@ -2236,7 +2236,7 @@
       {
         "CODIGO": "TEERH34P",
         "MEDIDA": "Tee enchufe rosca hembra 3/4",
-        "PRECIO": 65.71591,
+        "PRECIO": 92.26555,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "66c50e13-5745-4704-a1e7-c2cdd76c5693"
@@ -2244,7 +2244,7 @@
       {
         "CODIGO": "TEERH1P",
         "MEDIDA": "Tee enchufe rosca hembra 1",
-        "PRECIO": 93.70088,
+        "PRECIO": 131.553149,
         "TIPO": "Ts ",
         "KIT": 20,
         "id": "8648afa4-fb8d-4bf1-b77c-267956a086fc"
@@ -2256,7 +2256,7 @@
       {
         "CODIGO": "BUJE2520F",
         "MEDIDA": "BUJE 20 X 25 FUSION",
-        "PRECIO": 20.55375,
+        "PRECIO": 27.794812500000003,
         "TIPO": "Buje Fusion",
         "KIT": 20,
         "id": "42d66029-68e3-4ec4-b255-a5b2b9c18ca9"
@@ -2266,7 +2266,7 @@
       {
         "CODIGO": "CODO20F",
         "MEDIDA": "CODO 90º 20 M M FUSION",
-        "PRECIO": 21.853125,
+        "PRECIO": 29.586375,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "0ebbcf71-54f7-4433-906e-9eac0595df68"
@@ -2274,7 +2274,7 @@
       {
         "CODIGO": "CODO25F",
         "MEDIDA": "CODO 90º 25 M M FUSION",
-        "PRECIO": 30.79125,
+        "PRECIO": 42.076125000000005,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "a8d9049e-9d2f-4e22-a084-9ac7abfb6a57"
@@ -2282,7 +2282,7 @@
       {
         "CODIGO": "CODO32F",
         "MEDIDA": "CODO 90º 32 M M FUSION",
-        "PRECIO": 54.0225,
+        "PRECIO": 73.04456249999998,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "50c65d33-3925-4022-9d8a-aedb26f1a29d"
@@ -2290,7 +2290,7 @@
       {
         "CODIGO": "CODO2045F",
         "MEDIDA": "CODO 45º 20 M M FUSION",
-        "PRECIO": 35.316,
+        "PRECIO": 48.204,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "73066229-d8fe-4955-a24d-bc6494fced11"
@@ -2298,7 +2298,7 @@
       {
         "CODIGO": "CODO2545F",
         "MEDIDA": "CODO 45º 25 M M FUSION",
-        "PRECIO": 55.902,
+        "PRECIO": 76.3074,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "69d708a1-1948-46ff-a59c-0f134be3bec9"
@@ -2306,7 +2306,7 @@
       {
         "CODIGO": "codo2520f",
         "MEDIDA": "CODO REDUCCION 25 X 20 M M FUSION",
-        "PRECIO": 38.1375,
+        "PRECIO": 54.6,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "40a0b5e0-fe50-41e9-a26f-e0c4b7d59600"
@@ -2314,7 +2314,7 @@
       {
         "CODIGO": "codo3220f",
         "MEDIDA": "CODO REDUCCION 32 X 20 M M FUSION",
-        "PRECIO": 84.72,
+        "PRECIO": 115.6428,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "b4d673e8-b756-4693-be9a-78c5c8762b98"
@@ -2322,7 +2322,7 @@
       {
         "CODIGO": "codo3225f",
         "MEDIDA": "CODO REDUCCION 32 X 25 M M FUSION",
-        "PRECIO": 66.725,
+        "PRECIO": 95.53375,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "1887f92b-5bb8-4172-b2b8-c860787e8994"
@@ -2332,7 +2332,7 @@
       {
         "CODIGO": "CUPLA20F",
         "MEDIDA": "CUPLA 20 M M FUSION",
-        "PRECIO": 19.13625,
+        "PRECIO": 26.003249999999998,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "b52756e0-e6ed-405a-89c3-55a89de7eb74"
@@ -2340,7 +2340,7 @@
       {
         "CODIGO": "CUPLA25F",
         "MEDIDA": "CUPLA 25 M M FUSION",
-        "PRECIO": 24.215625,
+        "PRECIO": 32.76,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "d6a51b5f-69cb-4131-93d9-c4d6bfae4630"
@@ -2348,7 +2348,7 @@
       {
         "CODIGO": "CUPLA32F",
         "MEDIDA": "CUPLA 32 M M FUSION",
-        "PRECIO": 31.303125,
+        "PRECIO": 42.280875,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "55f444b7-0cad-4fd8-80d6-8669402cd9ce"
@@ -2356,7 +2356,7 @@
       {
         "CODIGO": "CUPLA2025F",
         "MEDIDA": "CUPLA 25 X 20 M M FUSION",
-        "PRECIO": 23.270625,
+        "PRECIO": 31.480312500000004,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "622c127d-035a-4eaf-9904-4fc2ae4a2933"
@@ -2364,7 +2364,7 @@
       {
         "CODIGO": "CUPLA3220F",
         "MEDIDA": "CUPLA 32 X 20 M M FUSION",
-        "PRECIO": 34.825,
+        "PRECIO": 49.855000000000004,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "e61a1299-7e6a-4e2f-bc3a-5954a7bfe439"
@@ -2372,7 +2372,7 @@
       {
         "CODIGO": "CUPLA3225F",
         "MEDIDA": "CUPLA 32 X 25 M M FUSION",
-        "PRECIO": 29.570625,
+        "PRECIO": 39.926249999999996,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "fce6800b-2214-4a96-a506-4fb962360de5"
@@ -2382,7 +2382,7 @@
       {
         "CODIGO": "CURVA20F",
         "MEDIDA": "CURVA 20 A 90º FUSION",
-        "PRECIO": 95.1,
+        "PRECIO": 136.15875000000003,
         "TIPO": "Curvas",
         "KIT": 20,
         "id": "ac459dba-4eb4-48f8-91f1-c8dee908630f"
@@ -2390,7 +2390,7 @@
       {
         "CODIGO": "CURVA25F",
         "MEDIDA": "CURVA 25 A 90º FUSION",
-        "PRECIO": 123.625,
+        "PRECIO": 176.995,
         "TIPO": "Curvas",
         "KIT": 20,
         "id": "f9ea3829-b4cf-440c-8832-5328ac3cde09"
@@ -2400,7 +2400,7 @@
       {
         "CODIGO": "TEE20F",
         "MEDIDA": "TEE 20 MM  FUSION",
-        "PRECIO": 27.64125,
+        "PRECIO": 37.5204375,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "64e0ed58-8805-4d2a-8794-d0f390fecc01"
@@ -2408,7 +2408,7 @@
       {
         "CODIGO": "TEE25F",
         "MEDIDA": "TEE 25 MM  FUSION",
-        "PRECIO": 35.91,
+        "PRECIO": 48.52575,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "11e5298b-7276-4dcf-80c2-673108f7eba5"
@@ -2416,7 +2416,7 @@
       {
         "CODIGO": "TEE32F",
         "MEDIDA": "TEE 32 MM  FUSION",
-        "PRECIO": 63.590625,
+        "PRECIO": 85.892625,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "cd51dc7a-49be-4650-b806-ab568fe7e8ce"
@@ -2424,7 +2424,7 @@
       {
         "CODIGO": "TEE2520F",
         "MEDIDA": "TEE 25 X 20 M M FUSION",
-        "PRECIO": 49.8875,
+        "PRECIO": 71.41875,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "22b325d3-afd1-4eb6-9a0e-d518ec566391"
@@ -2432,7 +2432,7 @@
       {
         "CODIGO": "TEE3220F",
         "MEDIDA": "TEE 32 X 20 M M FUSION",
-        "PRECIO": 107.652,
+        "PRECIO": 146.9442,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "5c8ff041-11dd-47d9-b466-fb493e933696"
@@ -2440,7 +2440,7 @@
       {
         "CODIGO": "TEE3225F",
         "MEDIDA": "TEE 32 X 25 M M FUSION",
-        "PRECIO": 81.125,
+        "PRECIO": 116.15500000000002,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "5223e662-1571-4b97-943c-391cb730efe5"
@@ -2450,7 +2450,7 @@
       {
         "CODIGO": "TAPA20F",
         "MEDIDA": "TAPA 20 MM  FUSION",
-        "PRECIO": 17.994375,
+        "PRECIO": 24.36525,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "2880cdb7-5c80-4ca9-8b4b-4974a14b1b7e"
@@ -2458,7 +2458,7 @@
       {
         "CODIGO": "TAPA25F",
         "MEDIDA": "TAPA 25 MM  FUSION",
-        "PRECIO": 21.49875,
+        "PRECIO": 29.0745,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "a54159f1-5bc7-4080-a2ba-fd9b69e12770"
@@ -2466,7 +2466,7 @@
       {
         "CODIGO": "TAPA32F",
         "MEDIDA": "TAPA 32 MM  FUSION",
-        "PRECIO": 29.295,
+        "PRECIO": 39.619125000000004,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "83d28dc4-10dd-4352-a440-f101143791cd"
@@ -2476,7 +2476,7 @@
       {
         "CODIGO": "UD20F",
         "MEDIDA": "UNION DOBLE 20 MM  FUSION",
-        "PRECIO": 122.5875,
+        "PRECIO": 175.5,
         "TIPO": "Uniones Dobles",
         "KIT": 20,
         "id": "00fb0dfa-5190-4ea1-822e-1bb337344d07"
@@ -2484,7 +2484,7 @@
       {
         "CODIGO": "UD25F",
         "MEDIDA": "UNION DOBLE 25 MM  FUSION",
-        "PRECIO": 131.9375,
+        "PRECIO": 188.90625,
         "TIPO": "Uniones Dobles",
         "KIT": 20,
         "id": "6d329a0b-c1d5-4b00-83b6-78fda1cf1d9d"
@@ -2492,7 +2492,7 @@
       {
         "CODIGO": "UD32F",
         "MEDIDA": "UNION DOBLE 32 MM  FUSION",
-        "PRECIO": 188.55,
+        "PRECIO": 269.96125,
         "TIPO": "Uniones Dobles",
         "KIT": 20,
         "id": "680edee4-0d5d-41b0-bad3-fdbf27c1b1d8"
@@ -2502,7 +2502,7 @@
       {
         "CODIGO": "SP20F",
         "MEDIDA": "SOBREPASO LARGO  20  MM  FUSION",
-        "PRECIO": 180.975,
+        "PRECIO": 259.10625,
         "TIPO": "Sobrepasos Largos",
         "KIT": 20,
         "id": "df979367-e46c-4f6f-b077-9889642cb969"
@@ -2510,7 +2510,7 @@
       {
         "CODIGO": "SP25F",
         "MEDIDA": "SOBREPASO LARGO 25  MM  FUSION",
-        "PRECIO": 247.536,
+        "PRECIO": 337.8882,
         "TIPO": "Sobrepasos Largos",
         "KIT": 20,
         "id": "bb27d145-9287-4b0e-912c-10c1ed092ce1"
@@ -2518,7 +2518,7 @@
       {
         "CODIGO": "SP32F ",
         "MEDIDA": "SOBREPASO LARGO 32  MM  FUSION",
-        "PRECIO": 396.234,
+        "PRECIO": 540.8598000000001,
         "TIPO": "Sobrepasos Largos",
         "KIT": 20,
         "id": "734f770a-d732-42de-a53c-a3ae5cc413bb"
@@ -2530,12 +2530,13 @@
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 20X3/8 FUSION",
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
-        "id": "589d7fa6-2059-4cc8-899b-6ce05af7a014"
+        "id": "589d7fa6-2059-4cc8-899b-6ce05af7a014",
+        "PRECIO": 0
       },
       {
         "CODIGO": "CH2012F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 20X1/2  FUSION",
-        "PRECIO": 244.9125,
+        "PRECIO": 322.68600000000004,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "49caf611-145c-4833-9691-f3bf03725baf"
@@ -2543,7 +2544,7 @@
       {
         "CODIGO": "CH2034F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 20X3/4  FUSION",
-        "PRECIO": 343.58625,
+        "PRECIO": 452.907,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "5d96d044-cf30-44d1-9a71-52e7997376d8"
@@ -2551,7 +2552,7 @@
       {
         "CODIGO": "CH2512F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 25X1/2  FUSION",
-        "PRECIO": 257.67,
+        "PRECIO": 337.93987500000003,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "6c60922c-92d7-4edc-a3c4-65dc646fae8a"
@@ -2559,7 +2560,7 @@
       {
         "CODIGO": "CH2534F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 25X3/4 FUSION",
-        "PRECIO": 344.1375,
+        "PRECIO": 453.5212500000001,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "e8adff70-8a06-4211-bba7-9c9c34362a83"
@@ -2567,7 +2568,7 @@
       {
         "CODIGO": "CH321F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO HEMBRA 32X1 FUSION",
-        "PRECIO": 679.8,
+        "PRECIO": 927.9270000000001,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "8a41b5a9-9737-401c-8b41-d2299d82aff6"
@@ -2575,7 +2576,7 @@
       {
         "CODIGO": "CM2012F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 20X1/2  FUSION",
-        "PRECIO": 336.105,
+        "PRECIO": 442.25999999999993,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "5d925b7f-a14c-4775-b839-4893da8c8e73"
@@ -2583,7 +2584,7 @@
       {
         "CODIGO": "CM2034F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 20X3/4  FUSION",
-        "PRECIO": 455.450625,
+        "PRECIO": 597.972375,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "5fad2cac-68f9-43c1-b70b-e154d4877e8d"
@@ -2591,7 +2592,7 @@
       {
         "CODIGO": "CM2512F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 25X1/2  FUSION",
-        "PRECIO": 343.5075,
+        "PRECIO": 451.98562499999997,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "68ad89c4-2e8c-4c71-b9bf-f276ee25cc85"
@@ -2599,7 +2600,7 @@
       {
         "CODIGO": "CM2534F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 25X3/4  FUSION",
-        "PRECIO": 456.12,
+        "PRECIO": 598.8937500000001,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "36751734-cb5c-4a06-96e5-730cbc7fa991"
@@ -2607,7 +2608,7 @@
       {
         "CODIGO": "CM3234F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 32X3/4  FUSION",
-        "PRECIO": 776.916,
+        "PRECIO": 1060.488,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "ab53c028-15fe-484d-9bdb-17914b6ee1d4"
@@ -2615,7 +2616,7 @@
       {
         "CODIGO": "CM321F",
         "MEDIDA": "CUPLA C/ INSERTO METALICO MACHO 32X1  FUSION",
-        "PRECIO": 874.032,
+        "PRECIO": 1193.0568,
         "TIPO": "Cuplas Inserto",
         "KIT": 20,
         "id": "ac7d9964-f769-4c29-a542-d8ea6bcbb0fe"
@@ -2625,7 +2626,7 @@
       {
         "CODIGO": "CODOH2012F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 20X1/2  FUSION",
-        "PRECIO": 251.37,
+        "PRECIO": 330.05699999999996,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "8d229c91-3631-44a1-9979-35e842894a5e"
@@ -2633,7 +2634,7 @@
       {
         "CODIGO": "CODOH2034F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 20X3/4  FUSION",
-        "PRECIO": 412.734,
+        "PRECIO": 563.3784,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "535f8c38-fbb5-4272-8d31-167d0850c69a"
@@ -2641,7 +2642,7 @@
       {
         "CODIGO": "CODOH2512F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 25X1/2  FUSION",
-        "PRECIO": 278.22375,
+        "PRECIO": 365.3251875,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "a6f14d80-e119-4f79-9d9d-2e052b5eb0c2"
@@ -2649,7 +2650,7 @@
       {
         "CODIGO": "CODOH2534F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 25X3/4  FUSION",
-        "PRECIO": 410.59998,
+        "PRECIO": 560.4670500000001,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "c50b86a7-e490-4198-8607-b6073d4efbcb"
@@ -2657,7 +2658,7 @@
       {
         "CODIGO": "CODOH3234F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 32X3/4  FUSION",
-        "PRECIO": 576.7875,
+        "PRECIO": 825.7925,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "ddeb2036-5d3f-4753-8589-c31560dd94e4"
@@ -2665,7 +2666,7 @@
       {
         "CODIGO": "CODOH321F",
         "MEDIDA": "CODO C/ INSERTO METALICO HEMBRA 32X1  FUSION",
-        "PRECIO": 812.214,
+        "PRECIO": 1108.6686,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "b13faefe-91df-42a8-8965-263d9b4ef2fe"
@@ -2673,7 +2674,7 @@
       {
         "CODIGO": "CODOM2012F",
         "MEDIDA": "CODO C/ INSERTO METALICO MACHO 20X1/2  FUSION",
-        "PRECIO": 343.8225,
+        "PRECIO": 453.5212500000001,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "4eeea683-202d-4a97-8c37-d05545793db3"
@@ -2681,7 +2682,7 @@
       {
         "CODIGO": "CODOM2034F",
         "MEDIDA": "CODO C/ INSERTO METALICO MACHO 20X3/4  FUSION",
-        "PRECIO": 534.126,
+        "PRECIO": 729.0816,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "437f3e40-4d55-4a31-9606-c23dbdb3af9c"
@@ -2689,7 +2690,7 @@
       {
         "CODIGO": "CODO2512F",
         "MEDIDA": "CODO C/ INSERTO METALICO MACHO 25X1/2  FUSION",
-        "PRECIO": 363.6675,
+        "PRECIO": 477.477,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "f95402ae-f35d-4f73-b2fe-33c0e563f6b3"
@@ -2697,7 +2698,7 @@
       {
         "CODIGO": "CODOM2534F",
         "MEDIDA": "CODO C/ INSERTO METALICO MACHO 25X34  FUSION",
-        "PRECIO": 527.009112,
+        "PRECIO": 719.3666688,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "f6a70468-1257-4698-ad38-29df6edefc88"
@@ -2705,7 +2706,7 @@
       {
         "CODIGO": "CODOM321F",
         "MEDIDA": "CODO C/ INSERTO METALICO MACHO 32X1  FUSION",
-        "PRECIO": 874.032,
+        "PRECIO": 1193.0568,
         "TIPO": "Codos Inserto",
         "KIT": 20,
         "id": "7579e8e7-79df-4241-9c4c-801135e8145f"
@@ -2715,7 +2716,7 @@
       {
         "CODIGO": "TEEH2012F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 20X1/2  FUSION",
-        "PRECIO": 285.46875,
+        "PRECIO": 374.8460625,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "248c6ffa-e408-4c62-9a15-45845387cf4e"
@@ -2723,7 +2724,7 @@
       {
         "CODIGO": "TEEH2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 25X1/2 FUSION",
-        "PRECIO": 427.308,
+        "PRECIO": 583.2762,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "a9e19ebb-e4ee-485c-8a10-1d03a76a11cf"
@@ -2731,7 +2732,7 @@
       {
         "CODIGO": "TEEh2534F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 25X3/4  FUSION",
-        "PRECIO": 558.402,
+        "PRECIO": 762.2160000000001,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "ec6f4303-3fb5-42ad-9011-1f9215de7f51"
@@ -2739,7 +2740,7 @@
       {
         "CODIGO": "TEEH3212F",
         "MEDIDA": "TEE C/ INSERTO METALICO HEMBRA 32X1/2  FUSION",
-        "PRECIO": 236.51352,
+        "PRECIO": 307.46757599999995,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "a6a647a1-4e45-4541-a7d1-0a7811d3260e"
@@ -2747,7 +2748,7 @@
       {
         "CODIGO": "TEEM2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 20X12  FUSION",
-        "PRECIO": 376.11,
+        "PRECIO": 728.9334,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "adee3461-9037-4ec0-9fe9-eef44d6412c6"
@@ -2755,7 +2756,7 @@
       {
         "CODIGO": "TEEM2512F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 25X12  FUSION",
-        "PRECIO": 534.018,
+        "PRECIO": 728.9334,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "c749f916-8f4b-46b7-9d84-bfb713a328be"
@@ -2763,7 +2764,7 @@
       {
         "CODIGO": "TEEM2534F",
         "MEDIDA": "TEE C/ INSERTO METALICO MACHO 25X3/4  FUSION",
-        "PRECIO": 631.248,
+        "PRECIO": 861.6504,
         "TIPO": "Ts Inserto",
         "KIT": 20,
         "id": "1bc23591-6ed4-4125-82d7-e5cae0d45f2c"
@@ -2773,7 +2774,7 @@
       {
         "CODIGO": "LP20FN",
         "MEDIDA": "LLAVE DE PASO C/CABEZAL BRONCE 20 M M FUSION IND. ARGENTINA",
-        "PRECIO": 1866.6,
+        "PRECIO": 2680.34,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "25c7c22c-5f67-411f-b6fc-f03556742492"
@@ -2781,7 +2782,7 @@
       {
         "CODIGO": "LP25FN",
         "MEDIDA": "LLAVE DE PASO C/CABEZAL BRONCE 25 M M FUSION IND. ARGENTINA",
-        "PRECIO": 2049.6,
+        "PRECIO": 2934.1,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "12c92ef2-6555-48c3-947a-cc7af178e198"
@@ -2789,7 +2790,7 @@
       {
         "CODIGO": "LP32FN",
         "MEDIDA": "LLAVE DE PASO C/CABEZAL BRONCE 32 M M FUSION IND. ARGENTINA",
-        "PRECIO": 2232.6,
+        "PRECIO": 3203.7200000000003,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "a74aa917-1459-443d-9e90-a632d3ec7eb6"
@@ -2797,7 +2798,7 @@
       {
         "CODIGO": "LLE20F",
         "MEDIDA": "LLAVE ESFERICA C/ ESFERA PLASTICA 20",
-        "PRECIO": 414.8,
+        "PRECIO": 539.24,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "23666fde-0b02-49d3-85ca-30d8ea2ac1a0"
@@ -2805,7 +2806,7 @@
       {
         "CODIGO": "LLE25F",
         "MEDIDA": "LLAVE ESFERICA C/ ESFERA PLASTICA 25",
-        "PRECIO": 646.6,
+        "PRECIO": 840.58,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "7c69a666-8fc2-4f26-b4b9-d61e7d31ecab"
@@ -2813,7 +2814,7 @@
       {
         "CODIGO": "LLE32F",
         "MEDIDA": "LLAVE ESFERICA C/ ESFERA PLASTICA32",
-        "PRECIO": 976,
+        "PRECIO": 1268.8,
         "TIPO": "Llaves",
         "KIT": 10,
         "id": "6d0425d1-8683-48c7-8f21-9992c76f7eed"
@@ -2823,7 +2824,7 @@
       {
         "CODIGO": "VEM20",
         "MEDIDA": "VALVULA ESFERICA METAL DOBLE UNION FUSION DE 20 MM",
-        "PRECIO": 1476.2,
+        "PRECIO": 1919.0600000000002,
         "TIPO": "Valvula",
         "KIT": 10,
         "id": "4c96754d-a419-4614-81ec-96628727bbdc"
@@ -2835,7 +2836,7 @@
       {
         "CODIGO": "CODOHH12P",
         "MEDIDA": "Codo Hembra - Hembra 90 º 1/2",
-        "PRECIO": 27.08355,
+        "PRECIO": 38.804935,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "49a2d68c-439e-40e0-811d-fd86ca3c7e00"
@@ -2843,7 +2844,7 @@
       {
         "CODIGO": "CODOHH34P",
         "MEDIDA": "Codo Hembra - Hembra 90 º 3/4",
-        "PRECIO": 44.4106,
+        "PRECIO": 63.62596500000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "a3525b78-dbe2-435e-b7af-58852ddf85b1"
@@ -2851,7 +2852,7 @@
       {
         "CODIGO": "CODOHH1P",
         "MEDIDA": "Codo Hembra - Hembra 90 º 1 ",
-        "PRECIO": 72.43275,
+        "PRECIO": 103.77952,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "f3d090b1-82cf-46d8-89c8-e32e3b3a9f98"
@@ -2859,7 +2860,7 @@
       {
         "CODIGO": "CODOHM12P",
         "MEDIDA": "Codo Macho - Hembra 90 º 1/2",
-        "PRECIO": 28.9731,
+        "PRECIO": 41.50217500000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "6e9ff27f-b828-481b-8848-dc8a4207f50d"
@@ -2867,7 +2868,7 @@
       {
         "CODIGO": "CODOMH34P",
         "MEDIDA": "Codo Macho - Hembra 90 º 3/4",
-        "PRECIO": 44.0895,
+        "PRECIO": 63.17642500000001,
         "TIPO": "Codos",
         "KIT": 20,
         "id": "66ebbf0c-82f7-4592-a105-2612d918ce43"
@@ -2877,7 +2878,7 @@
       {
         "CODIGO": "CUPLA12P",
         "MEDIDA": "Cupla Hembra - Hembra 1/2",
-        "PRECIO": 27.7134,
+        "PRECIO": 39.704015000000005,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "694ca4b7-333c-412f-acbe-6342a7c335a5"
@@ -2885,7 +2886,7 @@
       {
         "CODIGO": "CUPLA34P",
         "MEDIDA": "Cupla Hembra - Hembra 3/4",
-        "PRECIO": 40.3104,
+        "PRECIO": 57.749835000000004,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "229e019a-ee63-4343-aa13-54d9f18f3e24"
@@ -2893,7 +2894,7 @@
       {
         "CODIGO": "CUPLA1P",
         "MEDIDA": "Cupla Hembra - Hembra 1 ",
-        "PRECIO": 62.985,
+        "PRECIO": 90.24515500000001,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "e393a61a-8045-41eb-9a12-47810ca86d60"
@@ -2901,7 +2902,7 @@
       {
         "CODIGO": "CUPLA3412P",
         "MEDIDA": "Cupla Hembra - Hembra 3/4 X 1/2",
-        "PRECIO": 37.791,
+        "PRECIO": 54.13746,
         "TIPO": "Cuplas",
         "KIT": 20,
         "id": "49141a47-d5f2-40c0-b8a3-e6759e7e2a74"
@@ -2911,7 +2912,7 @@
       {
         "CODIGO": "CURVA12P",
         "MEDIDA": "Curva 1/2 90º",
-        "PRECIO": 62.985,
+        "PRECIO": 90.24515500000001,
         "TIPO": "Curvas",
         "KIT": 20,
         "id": "9234aa3e-4058-4ca5-8308-006ac3d1125b"
@@ -2919,7 +2920,7 @@
       {
         "CODIGO": "CURVA34P",
         "MEDIDA": "Curva 3/4  90º",
-        "PRECIO": 88.179,
+        "PRECIO": 126.336795,
         "TIPO": "Curvas",
         "KIT": 20,
         "id": "9d5fb82a-ac1d-4f70-9542-0da215e2dc3c"
@@ -2929,7 +2930,7 @@
       {
         "CODIGO": "UD12P",
         "MEDIDA": "Union doble Hembra  - Hembra 1/2",
-        "PRECIO": 119.6715,
+        "PRECIO": 171.451345,
         "TIPO": "Uniones Doble",
         "KIT": 20,
         "id": "caa320a9-c88d-426e-be75-2610eeb31494"
@@ -2937,7 +2938,7 @@
       {
         "CODIGO": "UD34P",
         "MEDIDA": "Union doble Hembra  - Hembra 3/4",
-        "PRECIO": 127.2297,
+        "PRECIO": 182.28847000000002,
         "TIPO": "Uniones Doble",
         "KIT": 20,
         "id": "2add2c2f-e334-4425-a235-6384a4fbb115"
@@ -2945,7 +2946,7 @@
       {
         "CODIGO": "UD1P",
         "MEDIDA": "Union doble Hembra  - Hembra 1 ",
-        "PRECIO": 178.24755,
+        "PRECIO": 255.37083,
         "TIPO": "Uniones Doble",
         "KIT": 20,
         "id": "5ac63e28-77dd-4509-a830-ceec93e68315"
@@ -2955,7 +2956,7 @@
       {
         "CODIGO": "TEE12P",
         "MEDIDA": "Tee 1/2",
-        "PRECIO": 44.0895,
+        "PRECIO": 63.17642500000001,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "415fb5dd-9030-4d8a-a073-e64eb8bfc086"
@@ -2963,7 +2964,7 @@
       {
         "CODIGO": "TEE34P",
         "MEDIDA": "Tee 3/4",
-        "PRECIO": 78.73125,
+        "PRECIO": 112.80243000000002,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "bca7913b-7e36-4611-829d-38af12c158b5"
@@ -2971,7 +2972,7 @@
       {
         "CODIGO": "TEE1P",
         "MEDIDA": "Tee 1 ",
-        "PRECIO": 119.6715,
+        "PRECIO": 171.451345,
         "TIPO": "Ts",
         "KIT": 20,
         "id": "5d9a20d3-d206-4d7a-8f7c-00eb40ec676c"
@@ -2981,7 +2982,7 @@
       {
         "CODIGO": "B3412P",
         "MEDIDA": "Buje reduccion 3/4 x 1/2",
-        "PRECIO": 22.6746,
+        "PRECIO": 32.49532,
         "TIPO": "Bujes Reducción",
         "KIT": 20,
         "id": "f96d4951-721b-43b9-ad3e-c518819219f9"
@@ -2989,7 +2990,7 @@
       {
         "CODIGO": "B134P",
         "MEDIDA": "Buje reduccion 1 x 3/4",
-        "PRECIO": 27.7134,
+        "PRECIO": 39.704015000000005,
         "TIPO": "Bujes Reducción",
         "KIT": 20,
         "id": "b04e615e-3f47-4359-815c-605b78824ce2"
@@ -2997,7 +2998,7 @@
       {
         "CODIGO": "B112P",
         "MEDIDA": "Buje reduccion 1 x 1/2",
-        "PRECIO": 30.2328,
+        "PRECIO": 43.316390000000006,
         "TIPO": "Bujes Reducción",
         "KIT": 20,
         "id": "b03046d3-9492-4eed-9b3c-f5784e325efb"
@@ -3007,7 +3008,7 @@
       {
         "CODIGO": "E12P",
         "MEDIDA": "Entrerosca 1/2",
-        "PRECIO": 20.78505,
+        "PRECIO": 29.782025000000004,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "deac4670-08cd-4617-bfed-2e5fc48eef87"
@@ -3015,7 +3016,7 @@
       {
         "CODIGO": "E34P",
         "MEDIDA": "Entrerosca 3/4",
-        "PRECIO": 24.56415,
+        "PRECIO": 35.19256,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "72512790-4c68-49ee-8c6b-8339bcfe2038"
@@ -3023,7 +3024,7 @@
       {
         "CODIGO": "E1P",
         "MEDIDA": "Entrerosca 1",
-        "PRECIO": 31.4925,
+        "PRECIO": 45.130605,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "f4d0da43-17b0-40d5-8367-8d29649acfe9"
@@ -3031,7 +3032,7 @@
       {
         "CODIGO": "E3412P",
         "MEDIDA": "Entrerosca 3/4 x 1/2",
-        "PRECIO": 27.7134,
+        "PRECIO": 39.704015000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "2530f291-1245-4100-99b0-0dae61ed0ce6"
@@ -3039,7 +3040,7 @@
       {
         "CODIGO": "E112P",
         "MEDIDA": "Entrerosca 1 x1/2",
-        "PRECIO": 32.7522,
+        "PRECIO": 46.928765,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "6fb09361-70d1-4ddf-9ba0-7ef5f74981c9"
@@ -3047,7 +3048,7 @@
       {
         "CODIGO": "E134P",
         "MEDIDA": "Entrerosca 1 x3/4",
-        "PRECIO": 32.7522,
+        "PRECIO": 46.928765,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "4bd6d43c-0466-4117-9c92-5d5eb131ffd5"
@@ -3055,7 +3056,7 @@
       {
         "CODIGO": "N1260",
         "MEDIDA": "Niple 1/2 x 60 mm",
-        "PRECIO": 17.69,
+        "PRECIO": 25.376,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "cededa8c-18fa-49cb-b7c9-fd5abae815ce"
@@ -3063,7 +3064,7 @@
       {
         "CODIGO": "N1280",
         "MEDIDA": "Niple 1/2 x 80 mm",
-        "PRECIO": 23.79,
+        "PRECIO": 34.099000000000004,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "48416082-b530-459a-acd4-3ed6d004dc10"
@@ -3071,7 +3072,7 @@
       {
         "CODIGO": "N12100",
         "MEDIDA": "Niple 1/2 x 100 mm",
-        "PRECIO": 29.28,
+        "PRECIO": 42.028999999999996,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "b25afaf1-f301-4827-aa6c-4d3d7acc7d3b"
@@ -3079,7 +3080,7 @@
       {
         "CODIGO": "N12120",
         "MEDIDA": "Niple 1/2 x 120 mm",
-        "PRECIO": 32.94,
+        "PRECIO": 47.580000000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "24a548cd-a050-4a2f-80fc-bae874157217"
@@ -3087,7 +3088,7 @@
       {
         "CODIGO": "N12150",
         "MEDIDA": "Niple 1/2 x 150 mm",
-        "PRECIO": 39.04,
+        "PRECIO": 55.510000000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "c5b70d4b-ec3a-4c27-bee6-5c987e3d2721"
@@ -3095,7 +3096,7 @@
       {
         "CODIGO": "N12200",
         "MEDIDA": "Niple 1/2 x 200 mm",
-        "PRECIO": 53.07,
+        "PRECIO": 76.128,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "736fa1ab-27f6-42ef-b929-d9311d8001c7"
@@ -3103,7 +3104,7 @@
       {
         "CODIGO": "N3460",
         "MEDIDA": "Niple 3/4 x 60 mm",
-        "PRECIO": 21.96,
+        "PRECIO": 31.72,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "a27584e7-c7af-4ba8-8277-929043baa396"
@@ -3111,7 +3112,7 @@
       {
         "CODIGO": "N3480",
         "MEDIDA": "Niple 3/4 x80 mm",
-        "PRECIO": 31.11,
+        "PRECIO": 44.407999999999994,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "70dd7105-cdcd-44ad-a5ec-251f6d19c803"
@@ -3119,7 +3120,7 @@
       {
         "CODIGO": "N34100",
         "MEDIDA": "Niple 3/4 x 100 mm",
-        "PRECIO": 39.04,
+        "PRECIO": 55.510000000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "358bdd5d-8ddd-4a89-adb6-c368a1a62380"
@@ -3127,7 +3128,7 @@
       {
         "CODIGO": "N34120",
         "MEDIDA": "Niple 3/4 x 120 mm",
-        "PRECIO": 46.36,
+        "PRECIO": 66.61200000000001,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "39d5354e-42d5-4fed-9ebe-b1d57b78f1a1"
@@ -3135,7 +3136,7 @@
       {
         "CODIGO": "N34150",
         "MEDIDA": "Niple 3/4 x 150 mm",
-        "PRECIO": 57.34,
+        "PRECIO": 82.472,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "cc394bff-2633-41b0-b56b-b89ec2cafb7a"
@@ -3143,7 +3144,7 @@
       {
         "CODIGO": "N34200",
         "MEDIDA": "Niple 3/4 x 200 mm",
-        "PRECIO": 69.54,
+        "PRECIO": 99.918,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "0eba65bc-4f62-455d-99e9-5156a4138682"
@@ -3151,7 +3152,7 @@
       {
         "CODIGO": "N160",
         "MEDIDA": "Niple 1 x 60 mm",
-        "PRECIO": 32.94,
+        "PRECIO": 47.580000000000005,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "48272731-e987-40ea-aaee-0253a4d6f8c6"
@@ -3159,7 +3160,7 @@
       {
         "CODIGO": "N180",
         "MEDIDA": "Niple 1 x 80 mm",
-        "PRECIO": 43.92,
+        "PRECIO": 63.44,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "1368761b-6b4d-4cf2-b35d-e94e295b7692"
@@ -3167,7 +3168,7 @@
       {
         "CODIGO": "N1100",
         "MEDIDA": "Niple 1 x 100 mm",
-        "PRECIO": 57.95,
+        "PRECIO": 83.265,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "664d8cbd-85d6-404d-beaa-f80ebfefc83c"
@@ -3175,7 +3176,7 @@
       {
         "CODIGO": "N1120",
         "MEDIDA": "Niple 1 x 120 mm",
-        "PRECIO": 70.76,
+        "PRECIO": 101.504,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "327720db-3924-4259-9f1b-e0f3cd1d0960"
@@ -3183,7 +3184,7 @@
       {
         "CODIGO": "N1150",
         "MEDIDA": "Niple 1 x 150 mm",
-        "PRECIO": 84.79,
+        "PRECIO": 121.32900000000001,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "14a01a8d-3e24-4bb1-8a92-a15f2bb8e7d4"
@@ -3191,7 +3192,7 @@
       {
         "CODIGO": "N1200",
         "MEDIDA": "Niple 1 x 200 mm",
-        "PRECIO": 96.38,
+        "PRECIO": 137.982,
         "TIPO": "Entreroscas",
         "KIT": 20,
         "id": "95731437-1203-4dd1-99bd-e2720c3842c7"
@@ -3201,7 +3202,7 @@
       {
         "CODIGO": "TAPON12P",
         "MEDIDA": "Tapon 1/2",
-        "PRECIO": 20.1552,
+        "PRECIO": 28.86689,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "28dd277e-9a60-4e8e-a1e3-b59cd66983b9"
@@ -3209,7 +3210,7 @@
       {
         "CODIGO": "TAPON34P",
         "MEDIDA": "Tapon 3/4",
-        "PRECIO": 20.1552,
+        "PRECIO": 28.86689,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "238cbadb-70f5-462f-a54a-fc5913dc3c61"
@@ -3217,7 +3218,7 @@
       {
         "CODIGO": "TAPON1P",
         "MEDIDA": "Tapon 1",
-        "PRECIO": 25.194,
+        "PRECIO": 36.091640000000005,
         "TIPO": "Tapones",
         "KIT": 20,
         "id": "a9137f51-836d-49fd-9588-2a3ba61b3f9f"
@@ -3227,7 +3228,7 @@
       {
         "CODIGO": "TAPA12P",
         "MEDIDA": "Tapa 1/2",
-        "PRECIO": 25.194,
+        "PRECIO": 36.091640000000005,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "2d5beadd-9d39-40b9-87f6-46b37d7ac45a"
@@ -3235,7 +3236,7 @@
       {
         "CODIGO": "TAPA34P",
         "MEDIDA": "Tapa 3/4",
-        "PRECIO": 28.34325,
+        "PRECIO": 40.61915,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "5fa829bc-512a-47a6-9ad3-5b5ade722186"
@@ -3243,7 +3244,7 @@
       {
         "CODIGO": "TAPA1P",
         "MEDIDA": "Tapa 1 ",
-        "PRECIO": 37.791,
+        "PRECIO": 54.13746,
         "TIPO": "Tapas",
         "KIT": 20,
         "id": "f97bb65a-bb8e-4eb6-b373-f64a45ddcc0c"
@@ -3255,7 +3256,7 @@
       {
         "CODIGO": "R2042",
         "MEDIDA": "Rejilla de ventilacion  20x40  800cm3 para gabinete gas",
-        "PRECIO": 577.5,
+        "PRECIO": 750.75,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "e04c097e-805e-43d8-8768-82159f2e225e"
@@ -3263,7 +3264,7 @@
       {
         "CODIGO": "R15S100",
         "MEDIDA": "Rejilla de ventilación Esmaltada 15 x 15 p/ amurar APROBADA 100 CM2",
-        "PRECIO": 91.7125,
+        "PRECIO": 119.22625000000001,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "10606ab6-5b04-4b52-9a94-2661683c9989"
@@ -3271,7 +3272,7 @@
       {
         "CODIGO": "R15A100T",
         "MEDIDA": "Rejilla de ventilación Esmaltada 15 x 15 p/ tornillo APROBADA 100 CM2",
-        "PRECIO": 91.7125,
+        "PRECIO": 119.22625000000001,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "a04ee9aa-65ea-4a2d-94db-5791a7cc42e1"
@@ -3279,7 +3280,7 @@
       {
         "CODIGO": "R1530A200",
         "MEDIDA": "Rejilla de ventilación Esmaltada 15 X 30 p/ amurar APROBADA 200 CM2",
-        "PRECIO": 183.4375,
+        "PRECIO": 238.46875,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "d56c13d8-0044-471e-899a-5afd999b29f6"
@@ -3287,7 +3288,7 @@
       {
         "CODIGO": "R1530A200T",
         "MEDIDA": "Rejilla de ventilación Esmaltada 15 X 30 p/ tornilloAPROBADA 200 CM2",
-        "PRECIO": 183.4375,
+        "PRECIO": 238.46875,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "61e3d5c9-0c36-402a-96d8-018286efdd42"
@@ -3295,7 +3296,7 @@
       {
         "CODIGO": "R20A100",
         "MEDIDA": "Rejilla de ventilación Esmaltada 20 X 20 p/ amurar APROBADA 100 CM2",
-        "PRECIO": 145.1,
+        "PRECIO": 188.63,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "ff48b277-4171-486f-9cb5-42a622a475b8"
@@ -3303,7 +3304,7 @@
       {
         "CODIGO": "R20A100t",
         "MEDIDA": "Rejilla de ventilación Esmaltada 20 X 20 p/tornillo APROBADA 100 CM2",
-        "PRECIO": 145.1,
+        "PRECIO": 188.63,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "885df6b3-355b-4b37-9cdc-341190699f1e"
@@ -3311,7 +3312,7 @@
       {
         "CODIGO": "R20A200",
         "MEDIDA": "Rejilla de ventilación Esmaltada 20 X 20 p/ amurar APROBADA 200 CM2",
-        "PRECIO": 148.925,
+        "PRECIO": 193.60250000000002,
         "TIPO": "Rejillas",
         "KIT": 10,
         "id": "43fb359a-c38f-4e41-86df-adc389cb420d"
@@ -3321,7 +3322,7 @@
       {
         "CODIGO": "R10AI",
         "MEDIDA": "Reja p/ piso de Acero 10 x 10 Acero Inoxidable",
-        "PRECIO": 225,
+        "PRECIO": 292.5,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "4fe98cf4-1301-423a-8dd7-98857b3f878b"
@@ -3329,7 +3330,7 @@
       {
         "CODIGO": "R12AI",
         "MEDIDA": "Reja p/ piso de Acero 12 x 12 Acero Inoxidable",
-        "PRECIO": 256.25,
+        "PRECIO": 357.5,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "36d57f81-6dfa-4b56-91b2-3df9443794c5"
@@ -3337,7 +3338,7 @@
       {
         "CODIGO": "R15AI",
         "MEDIDA": "Reja p/ piso de Acero 15 x 15 Acero Inoxidable",
-        "PRECIO": 300,
+        "PRECIO": 390,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "901a378a-38e6-4e35-a9b7-4bfe043b3787"
@@ -3345,7 +3346,7 @@
       {
         "CODIGO": "R20AI",
         "MEDIDA": "Reja p/ piso de Acero 20 x 20 Acero Inoxidable",
-        "PRECIO": 481.25,
+        "PRECIO": 625.625,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "ecc3720c-23fa-49e5-9a28-8578b9740eba"
@@ -3353,7 +3354,7 @@
       {
         "CODIGO": "R10PVC",
         "MEDIDA": "Reja p/ piso de plastico 10 x 10con marco",
-        "PRECIO": 124.8,
+        "PRECIO": 162.24,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "f4b341de-be7b-4082-8717-0101f86fea09"
@@ -3361,7 +3362,7 @@
       {
         "CODIGO": "R15PVC",
         "MEDIDA": "Reja p/ piso de plastico 15 x 15 con marco",
-        "PRECIO": 152.1,
+        "PRECIO": 197.73,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "5782464c-7703-4b57-bce2-742553fd145a"
@@ -3369,7 +3370,7 @@
       {
         "CODIGO": "R20PVC",
         "MEDIDA": "Reja p/ piso de plastico 20 X 20 con marco",
-        "PRECIO": 235.3,
+        "PRECIO": 305.89000000000004,
         "TIPO": "Rejas",
         "KIT": 10,
         "id": "52186c97-6733-403a-bda7-c4fbf7d85b69"
@@ -3379,7 +3380,7 @@
       {
         "CODIGO": "T10AI",
         "MEDIDA": "Tapa p/ piso de Acero 10 x 10 Acero Inoxidable",
-        "PRECIO": 225,
+        "PRECIO": 292.5,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "829fc503-c881-403c-a194-1c7d7103b6df"
@@ -3387,7 +3388,7 @@
       {
         "CODIGO": "T12AI",
         "MEDIDA": "Tapa p/ piso de Acero 12 x 12 Acero Inoxidable",
-        "PRECIO": 256.25,
+        "PRECIO": 357.5,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "7d275fec-1ff9-428f-91c2-44ce0b34d107"
@@ -3395,7 +3396,7 @@
       {
         "CODIGO": "T15AI",
         "MEDIDA": "Tapa p/ piso de Acero 15 x 15 Acero Inoxidable",
-        "PRECIO": 300,
+        "PRECIO": 390,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "f8824598-f54c-4d58-bb49-a72eb929baaf"
@@ -3403,7 +3404,7 @@
       {
         "CODIGO": "T20AI",
         "MEDIDA": "Tapa p/ piso de Acero 20 x 20 Acero Inoxidable",
-        "PRECIO": 481.25,
+        "PRECIO": 625.625,
         "TIPO": "Tapas",
         "KIT": 10,
         "id": "193b09d3-4ffc-413f-8b6d-429093a9e5d6"

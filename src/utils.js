@@ -32,7 +32,7 @@ const menuItemsExcelAJson = (excelFilePath, sheetName, jsonPathFile) => {
 const productsExcelToJson = (excelFilePath, jsonPathFile) => {
   const excel = XLSX.readFile(excelFilePath);
   const sheetNames = excel.SheetNames;
-  sheetNames.splice(0, 1);
+  sheetNames.splice(0, 1); // PRIMERA HOJA NO ESTOY USANDO
 
   function transformToNewJson() {
     let newJson = {};
