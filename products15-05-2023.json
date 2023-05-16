@@ -110,7 +110,7 @@
         "MEDIDA": "Tapa 1/2",
         "PRECIO": 315.315,
         "TIPO": "Tapas",
-        "KIT": 10,
+        "KIT": 20,
         "id": "93d3350c-d3c5-406b-b593-0f869da1d38a"
       },
       {
@@ -118,7 +118,7 @@
         "MEDIDA": "Tapa 3/4",
         "PRECIO": 368.28792000000004,
         "TIPO": "Tapas",
-        "KIT": 10,
+        "KIT": 20,
         "id": "52f1fb68-7a7d-4062-92a7-23c79ba82d32"
       }
     ],
