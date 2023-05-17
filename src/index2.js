@@ -23,10 +23,16 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const sendJsonToDB = async (json) => {
+export const sendAllProductsJsonToDB = async (json) => {
   Object.keys(json).forEach((key) => {
     setDoc(doc(db, 'products', key), json[key]);
   });
 };
 
-sendJsonToDB(products).then(() => console.log('Sent to DB'));
+/* sendAllProductsJsonToDB(products).then(() => console.log('Sent to DB')); */
+
+export const sendOneSubProductsToDB = async (json, subProdName) => {
+  setDoc(doc(db, products, subProdName, json[subProdName]));
+};
+
+/* sendOneSubProductsToDB(products, 'FERRETERIA') */

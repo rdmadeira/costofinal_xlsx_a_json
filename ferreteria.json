@@ -1,0 +1,364 @@
+{
+  "Tarugos CON tope": [
+    {
+      "CODIGO": "TAPYT5",
+      "MEDIDA": "TARUGO PY C/TOPE 5 (caja x 150u) CAJA",
+      "PRECIO": 410.43,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "dae97031-9b24-402c-8f8c-6ddca561e860"
+    },
+    {
+      "CODIGO": "TAPYT6",
+      "MEDIDA": "TARUGO PY C/TOPE 6 (caja x 100u) CAJA",
+      "PRECIO": 381.5,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "23ef6e73-08d0-4362-b8b4-9ef205dd05aa"
+    },
+    {
+      "CODIGO": "TAPYT6B",
+      "MEDIDA": "TARUGO PY C/TOPE 6 (bolsa x 1000u) BOLSA",
+      "PRECIO": 3476.93,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "0af4b61d-45ea-44a7-bb75-db8842faeec6"
+    },
+    {
+      "CODIGO": "TAPYT8",
+      "MEDIDA": "TARUGO PY C/TOPE 8 (caja x 50u) CAJA",
+      "PRECIO": 399.58,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "31bc54f7-f283-4853-9c74-dbda4f0d0ded"
+    },
+    {
+      "CODIGO": "TAPYT8B",
+      "MEDIDA": "TARUGO PY C/TOPE 8 (bolsa x 500u) BOLSA",
+      "PRECIO": 3565.52,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "9283be1a-c843-434d-a367-aaf707c2ad59"
+    },
+    {
+      "CODIGO": "TAPYT10",
+      "MEDIDA": "TARUGO PY C/TOPE 10 (caja x 40u) CAJA",
+      "PRECIO": 603.89,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "ef27d26a-1e63-4b4d-90c6-95adde34e96e"
+    },
+    {
+      "CODIGO": "TAPYT10B",
+      "MEDIDA": "TARUGO PY C/TOPE 10 (bolsa x 500u) BOLSA",
+      "PRECIO": 6523.53,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "632d2a09-580f-45d6-a653-e180221c6952"
+    },
+    {
+      "CODIGO": "TAPYT12",
+      "MEDIDA": "TARUGO PY C/TOPE 12 (caja x 25u) CAJA",
+      "PRECIO": 898.62,
+      "TIPO": "Tarugos CON tope",
+      "KIT": 20,
+      "id": "78e03517-fcd9-485d-a368-cfffeb7cdf98"
+    }
+  ],
+  "Tarugos SIN tope": [
+    {
+      "CODIGO": "TAPY4",
+      "MEDIDA": "TARUGO PY 4 (Caja/bolsa x 400u) CAJA",
+      "PRECIO": 945.63,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "b09016fa-f3ab-4ddc-97e1-98b64504200d"
+    },
+    {
+      "CODIGO": "TAPY5",
+      "MEDIDA": "TARUGO PY 5 (Caja/bolsa x 200u) CAJA",
+      "PRECIO": 377.88,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "bf483b2e-a5d0-4f81-807d-7125cda783cc"
+    },
+    {
+      "CODIGO": "TAPY6",
+      "MEDIDA": "TARUGO PY 6 (Caja/bolsa x 200u) CAJA",
+      "PRECIO": 596.67,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "047772c4-c1ec-4e58-b0f9-1c9ee4f73837"
+    },
+    {
+      "CODIGO": "TAPY8",
+      "MEDIDA": "TARUGO PY 8 (Caja/bolsa x 100u) CAJA",
+      "PRECIO": 641.87,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "0e05064a-cbb2-4bca-ac7f-8d5f676d343c"
+    },
+    {
+      "CODIGO": "TAPY10",
+      "MEDIDA": "TARUGO PY 10 (Caja/bolsa x 50u) CAJA",
+      "PRECIO": 596.67,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "b39149c9-17e1-4e79-a307-d3c23899eaff"
+    },
+    {
+      "CODIGO": "TAPY12",
+      "MEDIDA": "TARUGO PY 12 (Caja/bolsa x 25u) CAJA",
+      "PRECIO": 797.37,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "1ba1b103-052c-4fb9-a14d-440eeec3326a"
+    },
+    {
+      "CODIGO": "TAPY14",
+      "MEDIDA": "TARUGO PY 14 (Caja/bolsa x 20u) CAJA",
+      "PRECIO": 1010.71,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "3344988e-f66b-4e0a-903f-6c58d2f83b52"
+    },
+    {
+      "CODIGO": "TAPY6B",
+      "MEDIDA": "TARUGO PY 6 BOLSA X 1000 BOL",
+      "PRECIO": 2722.95,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "87aa39fc-0a44-4cda-b03c-b0635a1240fc"
+    },
+    {
+      "CODIGO": "TAPY8B",
+      "MEDIDA": "TARUGO PY 8 BOLSA X 1000 BOL",
+      "PRECIO": 5644.81,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "67bd219b-1f04-46d6-8481-968407011ffd"
+    },
+    {
+      "CODIGO": "TAPY10B",
+      "MEDIDA": "TARUGO PY 10 (Bolsa x 500u) BOL",
+      "PRECIO": 5162.06,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "1780449a-d843-4c6f-8242-3d550cce11d2"
+    },
+    {
+      "CODIGO": "TAPY12B",
+      "MEDIDA": "TARUGO PY 12 (Bolsa x 100u) BOL",
+      "PRECIO": 2384.85,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "a1a2f664-76b0-4291-b35e-66597f8e8dd4"
+    },
+    {
+      "CODIGO": "TAPY14B",
+      "MEDIDA": "TARUGO PY 14 (Bolsa x 100u) BOL",
+      "PRECIO": 3728.25,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "ab641d3d-992f-4f54-ab00-513e9be6d67d"
+    },
+    {
+      "CODIGO": "TAPY4B",
+      "MEDIDA": "TARUGO PY 4 (Bolsa x 1000u) BOL",
+      "PRECIO": 1719.48,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "8c4d2c10-213d-4bbf-a11a-34438c1937ba"
+    },
+    {
+      "CODIGO": "TAPY5B",
+      "MEDIDA": "TARUGO PY 5 (Bolsa x 1000u) BOL",
+      "PRECIO": 1757.45,
+      "TIPO": "Tarugos SIN tope",
+      "KIT": 20,
+      "id": "aee03872-57a3-4061-8bca-e0662a0e4146"
+    }
+  ],
+  "LLANAS": [
+    {
+      "CODIGO": "LLADEP3",
+      "MEDIDA": "LLANA DENTADA PINAS 3x3 (caja x 3u) UNIDAD.",
+      "PRECIO": 3582.64,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "184f66fa-0273-44cf-ad1d-46a287597d6b"
+    },
+    {
+      "CODIGO": "LLADEP4",
+      "MEDIDA": "LLANA DENTADA PINAS 4x4 (caja x 3u) UNIDAD.",
+      "PRECIO": 3582.64,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "6f178cca-d833-49ce-963b-f9269d93df00"
+    },
+    {
+      "CODIGO": "LLADEP",
+      "MEDIDA": "LLANA DENTADA PINAS 6x6 (caja x 3u) UNIDAD.",
+      "PRECIO": 3582.64,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "406dabf1-c855-4349-bce9-a0be0aeec506"
+    },
+    {
+      "CODIGO": "LLADEP8",
+      "MEDIDA": "LLANA DENTADA PINAS 9x9 (caja x 3u) UNIDAD.",
+      "PRECIO": 3582.64,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "0b926a1b-2784-426f-903d-91517e60d239"
+    },
+    {
+      "CODIGO": "LLADEP12",
+      "MEDIDA": "LLANA DENTADA PINAS 12x12 (caja x 3u) UNIDAD",
+      "PRECIO": 3582.64,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "32e7a418-38df-4def-ac1e-df55211d76ce"
+    },
+    {
+      "CODIGO": "LLAYEP25",
+      "MEDIDA": "LLANA YESERO PINAS 12 x 25 (caja x 3u) UNIDAD.",
+      "PRECIO": 4181.1,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "0abc2bec-4ffc-4dbd-9548-703a243afe7b"
+    },
+    {
+      "CODIGO": "LLAYEP30",
+      "MEDIDA": "LLANA YESERO PINAS 12 x 30 (caja x 3u) UNIDAD",
+      "PRECIO": 4922.28,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "5ac1a777-13f1-4f7b-8c89-9ad25d71bcaa"
+    },
+    {
+      "CODIGO": "LLAYEP35",
+      "MEDIDA": "LLANA YESERO PINAS 12 x 35 (caja x 3u) UNIDAD",
+      "PRECIO": 5647.25,
+      "TIPO": "LLANAS",
+      "KIT": 20,
+      "id": "f4616284-76e2-45cf-bc13-e0b9c90831eb"
+    }
+  ],
+  "ESPATULAS": [
+    {
+      "CODIGO": "ESPP2",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 20 (caja x 12u) UNIDAD.",
+      "PRECIO": 966.62,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "c65da4ad-0505-406d-917a-94d2dfae4687"
+    },
+    {
+      "CODIGO": "ESPP3",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 30 (caja x 12u) UNIDAD.",
+      "PRECIO": 1034.73,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "cc9e6b19-7350-4cb6-a649-58706f31b674"
+    },
+    {
+      "CODIGO": "ESPP4",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 40 (caja x 12u) UNIDAD.",
+      "PRECIO": 1091.5,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "ed667823-ecfb-4052-b843-a472556c83b5"
+    },
+    {
+      "CODIGO": "ESPP5",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 50 (caja x 12u) UNIDAD.",
+      "PRECIO": 1216.38,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "0a38b963-9036-4402-9f73-2496dcc5dac5"
+    },
+    {
+      "CODIGO": "ESPP6",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 60 (caja x 12u) UNIDAD.",
+      "PRECIO": 1321.8,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "43e6b912-3740-47b7-811c-703dbad66e21"
+    },
+    {
+      "CODIGO": "ESPP7",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 70 (caja x 12u) UNIDAD.",
+      "PRECIO": 1435.33,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "deb5f517-721c-4376-bbaf-b39f7a3210c3"
+    },
+    {
+      "CODIGO": "ESPP8",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 80 (caja x 12u) UNIDAD.",
+      "PRECIO": 1565.08,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "ddf93784-5180-4543-9876-5dfa30d0c737"
+    },
+    {
+      "CODIGO": "ESPP9",
+      "MEDIDA": "ESPATULA PROFESIONAL PINAS 90 (caja x 12u) UNIDAD.",
+      "PRECIO": 1681.85,
+      "TIPO": "ESPATULAS",
+      "KIT": 20,
+      "id": "327a4c8e-6d4f-4e36-86da-c1651887f4f6"
+    }
+  ],
+  "CINTAS": [
+    {
+      "CODIGO": "CIENN12",
+      "MEDIDA": "CINTA de Papel NORTON 12 x 50mts (caja x72u) U",
+      "PRECIO": 150.32,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "c6dc4dba-779c-48a8-8c3f-bf60e48d41b6"
+    },
+    {
+      "CODIGO": "CIENN15",
+      "MEDIDA": "CINTA DE PAPEL NORTON 15 x 50mts. (caja x 60u) U",
+      "PRECIO": 365.04,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "83b2cdb7-657d-4c0f-ab49-4385b1425ab8"
+    },
+    {
+      "CODIGO": "CIENN18",
+      "MEDIDA": "CINTA DE PAPEL NORTON 18 x 50mts (caja x 36u) U",
+      "PRECIO": 438.41,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "c295bcd2-bfa4-400e-93f4-fafc12aaaf6e"
+    },
+    {
+      "CODIGO": "CIENN24",
+      "MEDIDA": "CINTA DE PAPEL NORTON 24 x 50mts (caja x 30u) U",
+      "PRECIO": 583.62,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "65bf4e7e-c42e-4ea7-93f2-4f929ea5037c"
+    },
+    {
+      "CODIGO": "CIENN36",
+      "MEDIDA": "CINTA DE PAPEL NORTON 36 x 50mts (caja x 30u) U",
+      "PRECIO": 875.55,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "78a2e06d-1dc2-42e8-8e5e-3030934cbf12"
+    },
+    {
+      "CODIGO": "CIENN48",
+      "MEDIDA": "CINTA DE PAPEL NORTON 48 x 50mts (caja x 16u) U",
+      "PRECIO": 1167.48,
+      "TIPO": "CINTAS",
+      "KIT": 20,
+      "id": "1677d390-f996-4039-8a80-fa938d248a7e"
+    }
+  ]
+}

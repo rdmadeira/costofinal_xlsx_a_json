@@ -72,6 +72,39 @@ const productsExcelToJson = (excelFilePath, jsonPathFile) => {
   );
 };
 
+const subProdSheetToJson = (excelFilePath, jsonPathFile, subProdName) => {
+  const excel = XLSX.readFile(excelFilePath);
+  const sheet = excel.Sheets[subProdName];
+  const datosSheetName = XLSX.utils.sheet_to_json(sheet);
+  let newJsonDataObject = {};
+  datosSheetName.forEach((product) => {
+    const productWithId = { ...product, id: uuid.v4() };
+    const typeOfProduct = product['TIPO'];
+    if (typeOfProduct) {
+      if (newJsonDataObject[typeOfProduct]) {
+        newJsonDataObject[typeOfProduct].push(productWithId);
+      } else {
+        newJsonDataObject[typeOfProduct] = [productWithId];
+      }
+
+      return;
+    }
+    if (newJsonDataObject['Sin nombre']) {
+      newJsonDataObject['Sin nombre'].push(productWithId);
+    } else {
+      newJsonDataObject['Sin nombre'] = [productWithId];
+    }
+  });
+  console.log(newJsonDataObject);
+  fs.writeFileSync(jsonPathFile, JSON.stringify(newJsonDataObject));
+};
+
+/* subProdSheetToJson(
+  process.cwd() + '\\costofinal.xlsx',
+  process.cwd() + '\\ferreteria.json',
+  'FERRETERIA'
+); */
+
 const updatePrices = (excelFilePath, jsonPathFile) => {
   console.log(jsonPathFile);
   const excel = XLSX.readFile(excelFilePath);
@@ -104,4 +137,9 @@ const updatePrices = (excelFilePath, jsonPathFile) => {
   `);
 };
 
-module.exports = { menuItemsExcelAJson, productsExcelToJson, updatePrices };
+module.exports = {
+  menuItemsExcelAJson,
+  productsExcelToJson,
+  subProdSheetToJson,
+  updatePrices,
+};
