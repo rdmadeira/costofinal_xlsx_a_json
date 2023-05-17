@@ -41,7 +41,7 @@ program
   .action((type) => {
     if (type === 'menu') {
       menuItemsExcelAJson(
-        'C:\\Users\\Administrador\\Desktop\\WebDesigner\\Backend\\costofinal_xlsx\\costofinal.xlsx',
+        process.cwd() + '\\costofinal.xlsx',
         'PAGINA DE INICIO',
         './menuProducts.json'
       );
@@ -49,7 +49,7 @@ program
     }
     if (type === 'products') {
       productsExcelToJson(
-        'C:\\Users\\Administrador\\Desktop\\WebDesigner\\Backend\\costofinal_xlsx\\costofinal.xlsx',
+        process.cwd() + '\\costofinal.xlsx',
         'newProducts.json'
       );
       return;

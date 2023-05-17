@@ -78,7 +78,7 @@ const updatePrices = (excelFilePath, jsonPathFile) => {
   const sheet = excel.Sheets['HojaParaActualizar'];
   const datosSheetName = XLSX.utils.sheet_to_json(sheet);
 
-  const products = require('../products.json');
+  const products = require('../newProducts.json');
   const productsKeys = Object.keys(products);
 
   productsKeys.forEach((productKey) => {
