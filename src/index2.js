@@ -2,7 +2,8 @@
 const { initializeApp } = require('firebase/app');
 const { getFirestore } = require('firebase/firestore');
 const { doc, setDoc } = require('firebase/firestore');
-const products = require('../newProducts.json');
+/* const products = require('../newProducts.json'); */
+/* const ferreteria = require('../ferreteria.json'); */
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
@@ -23,7 +24,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-export const sendAllProductsJsonToDB = async (json) => {
+const sendAllProductsJsonToDB = async (json) => {
   Object.keys(json).forEach((key) => {
     setDoc(doc(db, 'products', key), json[key]);
   });
@@ -31,8 +32,13 @@ export const sendAllProductsJsonToDB = async (json) => {
 
 /* sendAllProductsJsonToDB(products).then(() => console.log('Sent to DB')); */
 
-export const sendOneSubProductsToDB = async (json, subProdName) => {
-  setDoc(doc(db, products, subProdName, json[subProdName]));
+const sendOneSubProductsToDB = async (subProdJson, subProdName) => {
+  console.log(subProdJson, subProdName);
+  setDoc(doc(db, 'products', subProdName), subProdJson);
 };
 
-/* sendOneSubProductsToDB(products, 'FERRETERIA') */
+/* sendOneSubProductsToDB(ferreteria, 'FERRETERIA')
+  .then(() => console.log('Ejecutado'))
+  .catch((err) => console.log(err)); */
+
+module.exports = { sendOneSubProductsToDB, sendAllProductsJsonToDB };
