@@ -11,9 +11,9 @@ const {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const getProductsFromFirestore = async () => {
+const getProductsFromFirestore = async (collectionName) => {
   try {
-    const productsArray = await getDocs(collection(db, 'products'));
+    const productsArray = await getDocs(collection(db, collectionName));
     const products = {};
     productsArray.forEach((doc) => (products[doc.id] = doc.data()));
 
@@ -33,9 +33,10 @@ const getProductsFromFirestore = async () => {
   }
 };
 
-const sendAllProductsJsonToDB = async (json) => {
-  Object.keys(json).forEach((key) => {
-    setDoc(doc(db, 'products', key), json[key]);
+const sendAllProductsJsonToDB = async (collectionName, jsonFilePath) => {
+  console.log(firebaseConfig.apiKey);
+  Object.keys(jsonFilePath).forEach((key) => {
+    setDoc(doc(db, collectionName, key), jsonFilePath[key]);
   });
 };
 

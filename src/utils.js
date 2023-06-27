@@ -2,6 +2,7 @@ var XLSX = require('xlsx');
 const fs = require('fs');
 const chalk = require('chalk');
 const uuid = require('uuid');
+const { getProductsFromFirestore } = require('./firebase-utils.js');
 
 const menuItemsExcelAJson = (excelFilePath, sheetName, jsonPathFile) => {
   const excel = XLSX.readFile(excelFilePath);
@@ -104,6 +105,7 @@ const updatePrices = (excelFilePath, jsonPathFile) => {
   const excel = XLSX.readFile(excelFilePath);
   const sheet = excel.Sheets['HojaParaActualizar'];
   const datosSheetName = XLSX.utils.sheet_to_json(sheet);
+  console.log(datosSheetName);
 
   const products = require('../productsFirebaseJson.json');
   const productsKeys = Object.keys(products);
@@ -113,7 +115,7 @@ const updatePrices = (excelFilePath, jsonPathFile) => {
       products[productKey][subProductoKey].forEach((productItem, index) => {
         datosSheetName.forEach((item) => {
           if (
-            item.CODIGO === products[productKey][subProductoKey][index].CODIGO
+            item.CODIGO == products[productKey][subProductoKey][index].CODIGO
           ) {
             products[productKey][subProductoKey][index].PRECIO = item.PRECIO;
           }
@@ -136,10 +138,19 @@ const createJsonFileFromObject = (jsonObject) => {
   fs.writeFileSync('productsFirebaseJson.json', jsonStringfy);
 };
 
+const createAsyncJsonFromDB = async (collectionName) => {
+  const productsFromDB = await getProductsFromFirestore(collectionName);
+  console.log(productsFromDB);
+
+  createJsonFileFromObject(productsFromDB.data);
+};
+
+module.exports = { createAsyncJsonFromDB };
+
 module.exports = {
   menuItemsExcelAJson,
   productsExcelToJson,
   subProdSheetToJson,
   updatePrices,
-  createJsonFileFromObject,
+  createAsyncJsonFromDB,
 };

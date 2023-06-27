@@ -6,6 +6,8 @@ const {
   productsExcelToJson,
   updatePrices,
 } = require('./utils');
+const { sendAllProductsJsonToDB } = require('./firebase-utils.js');
+const { createAsyncJsonFromDB } = require('./utils.js');
 
 program
   .version('1.0.0')
@@ -64,6 +66,19 @@ program
   });
 
 program
+  .command('getProductsFromDB')
+  .description(
+    'Obtener los datos de products de la base de datos en formato json y grabar en la raiz del proyecto '
+  )
+  .alias('gp')
+  .argument('<collectionName>', 'nombre de la collecion en Firestore')
+  .action((collectionName) => {
+    createAsyncJsonFromDB(collectionName)
+      .then(() => console.log('ProductsFirebaseJson Creado con exito'))
+      .catch((error) => console.log(error));
+  });
+
+program
   .command('updatePrices')
   .description('Actualizar precios acorde archivo excel')
   .alias('up')
@@ -71,6 +86,19 @@ program
   .argument('<jsonFilePath>', 'Path del archivo json a ser creado')
   .action((excelFilePath, jsonPathFile) => {
     updatePrices(excelFilePath, jsonPathFile);
+  });
+
+program
+  .command('PostToDB')
+  .description('Enviar Json a Firestore')
+  .alias('post')
+  .argument('<collectionName>', 'Nombre de la colección a ser seteada')
+  .argument('<jsonFilePath>', 'Path del archivo json a ser enviado')
+  .action((collectionName, jsonPathFile) => {
+    var productsObject = require(jsonPathFile);
+    sendAllProductsJsonToDB(collectionName, productsObject)
+      .then(() => console.log('Actualizado con exito en la base de datos'))
+      .catch((error) => console.log(error));
   });
 
 program.parse(process.argv);
