@@ -99,19 +99,13 @@ const subProdSheetToJson = (excelFilePath, jsonPathFile, subProdName) => {
   fs.writeFileSync(jsonPathFile, JSON.stringify(newJsonDataObject));
 };
 
-/* subProdSheetToJson(
-  process.cwd() + '\\costofinal.xlsx',
-  process.cwd() + '\\ferreteria.json',
-  'FERRETERIA'
-); */
-
 const updatePrices = (excelFilePath, jsonPathFile) => {
   console.log(jsonPathFile);
   const excel = XLSX.readFile(excelFilePath);
   const sheet = excel.Sheets['HojaParaActualizar'];
   const datosSheetName = XLSX.utils.sheet_to_json(sheet);
 
-  const products = require('../newProducts.json');
+  const products = require('../productsFirebaseJson.json');
   const productsKeys = Object.keys(products);
 
   productsKeys.forEach((productKey) => {
@@ -137,9 +131,15 @@ const updatePrices = (excelFilePath, jsonPathFile) => {
   `);
 };
 
+const createJsonFileFromObject = (jsonObject) => {
+  const jsonStringfy = JSON.stringify(jsonObject);
+  fs.writeFileSync('productsFirebaseJson.json', jsonStringfy);
+};
+
 module.exports = {
   menuItemsExcelAJson,
   productsExcelToJson,
   subProdSheetToJson,
   updatePrices,
+  createJsonFileFromObject,
 };
