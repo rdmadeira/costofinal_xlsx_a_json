@@ -135,16 +135,19 @@ const updatePrices = (excelFile, jsonFile) => {
   `);
 };
 
-const createJsonFileFromObject = (jsonObject) => {
+const createJsonFileFromObject = (jsonObject, collectionName) => {
   const jsonStringfy = JSON.stringify(jsonObject);
-  fs.writeFileSync(__dirname + '/json/productsFirebaseJson.json', jsonStringfy);
+  fs.writeFileSync(
+    __dirname + '/json/' + collectionName + 'FirebaseJson.json',
+    jsonStringfy
+  );
 };
 
 const createAsyncJsonFromDB = async (collectionName) => {
   const productsFromDB = await getProductsFromFirestore(collectionName);
   console.log(productsFromDB);
 
-  createJsonFileFromObject(productsFromDB.data);
+  createJsonFileFromObject(productsFromDB.data, collectionName);
 };
 
 module.exports = { createAsyncJsonFromDB };
