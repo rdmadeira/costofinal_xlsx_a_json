@@ -4,7 +4,7 @@ const chalk = require('chalk');
 const uuid = require('uuid');
 const { getProductsFromFirestore } = require('./firebase-utils.js');
 
-const menuItemsExcelAJson = (excelFile, sheetName, jsonPathFile) => {
+const menuItemsExcelAJson = (excelFile, sheetName, jsonFile) => {
   const excel = XLSX.readFile('./xls/' + excelFile);
   const hoja = excel.Sheets[sheetName];
   const datos = XLSX.utils.sheet_to_json(hoja);
@@ -23,7 +23,7 @@ const menuItemsExcelAJson = (excelFile, sheetName, jsonPathFile) => {
   }
   const dataToJson = transformToNewJson(datos);
 
-  fs.writeFileSync(jsonPathFile, JSON.stringify(dataToJson));
+  fs.writeFileSync(__dirname + '/json/' + jsonFile, JSON.stringify(dataToJson));
   console.log(
     chalk.bgYellow.bold(`
         ----------------- Json productos creado con exito!! ----------------    `)
@@ -31,7 +31,7 @@ const menuItemsExcelAJson = (excelFile, sheetName, jsonPathFile) => {
 };
 
 const productsExcelToJson = (excelFile, jsonFile) => {
-  const excel = XLSX.readFile('./xls' + excelFile);
+  const excel = XLSX.readFile(__dirname + '/xls' + excelFile);
   const sheetNames = excel.SheetNames;
   sheetNames.splice(0, 1); // PRIMERA HOJA NO ESTOY USANDO
 
@@ -66,7 +66,7 @@ const productsExcelToJson = (excelFile, jsonFile) => {
     return newJson;
   }
   const dataToJson = transformToNewJson();
-  fs.writeFileSync('./json/' + jsonFile, JSON.stringify(dataToJson));
+  fs.writeFileSync(__dirname + '/json/' + jsonFile, JSON.stringify(dataToJson));
   console.log(
     chalk.bgYellow.black.bold(`
     ----------------- Json productos creado con exito!! ----------------     `)
@@ -74,7 +74,7 @@ const productsExcelToJson = (excelFile, jsonFile) => {
 };
 
 const subProdSheetToJson = (excelFile, jsonFile, subProdName) => {
-  const excel = XLSX.readFile('./xls' + excelFile);
+  const excel = XLSX.readFile(__dirname + '/xls' + excelFile);
   const sheet = excel.Sheets[subProdName];
   const datosSheetName = XLSX.utils.sheet_to_json(sheet);
   let newJsonDataObject = {};
@@ -97,16 +97,19 @@ const subProdSheetToJson = (excelFile, jsonFile, subProdName) => {
     }
   });
   console.log(newJsonDataObject);
-  fs.writeFileSync('./json/' + jsonFile, JSON.stringify(newJsonDataObject));
+  fs.writeFileSync(
+    __dirname + '/json/' + jsonFile,
+    JSON.stringify(newJsonDataObject)
+  );
 };
 
 const updatePrices = (excelFile, jsonFile) => {
-  const excel = XLSX.readFile('./xls/' + excelFile);
+  const excel = XLSX.readFile(__dirname + '/xls/' + excelFile);
   const sheet = excel.Sheets['HojaParaActualizar'];
   const datosSheetName = XLSX.utils.sheet_to_json(sheet);
   console.log(datosSheetName);
 
-  const products = require('./json/productsFirebaseJson.json');
+  const products = require(__dirname + '/json/productsFirebaseJson.json');
   const productsKeys = Object.keys(products);
 
   productsKeys.forEach((productKey) => {
@@ -123,7 +126,7 @@ const updatePrices = (excelFile, jsonFile) => {
     });
   });
 
-  fs.writeFileSync('./json/' + jsonFile, JSON.stringify(products));
+  fs.writeFileSync(__dirname + '/json/' + jsonFile, JSON.stringify(products));
 
   console.log(`
     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -134,7 +137,7 @@ const updatePrices = (excelFile, jsonFile) => {
 
 const createJsonFileFromObject = (jsonObject) => {
   const jsonStringfy = JSON.stringify(jsonObject);
-  fs.writeFileSync('./json/productsFirebaseJson.json', jsonStringfy);
+  fs.writeFileSync(__dirname + '/json/productsFirebaseJson.json', jsonStringfy);
 };
 
 const createAsyncJsonFromDB = async (collectionName) => {
