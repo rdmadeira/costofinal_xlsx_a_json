@@ -33,10 +33,9 @@ const getProductsFromFirestore = async (collectionName) => {
   }
 };
 
-const sendAllProductsJsonToDB = async (collectionName, jsonFilePath) => {
-  console.log(firebaseConfig.apiKey);
-  Object.keys(jsonFilePath).forEach((key) => {
-    setDoc(doc(db, collectionName, key), jsonFilePath[key]);
+const sendAllProductsJsonToDB = async (collectionName, jsonFile) => {
+  Object.keys(jsonFile).forEach((key) => {
+    setDoc(doc(db, collectionName, key), jsonFile[key]);
   });
 };
 

@@ -66,12 +66,15 @@ program
   });
 
 program
-  .command('getProductsFromDB')
+  .command('getCollectionFromDB')
   .description(
     'Obtener los datos de products de la base de datos en formato json y grabar en la raiz del proyecto '
   )
-  .alias('gp')
-  .argument('<collectionName>', 'nombre de la collecion en Firestore')
+  .alias('gc')
+  .argument(
+    '<collectionName>',
+    'nombre de la collecion en Firestore a ser obtenida'
+  )
   .action((collectionName) => {
     createAsyncJsonFromDB(collectionName)
       .then(() => console.log('ProductsFirebaseJson Creado con exito'))
@@ -84,8 +87,8 @@ program
   .alias('up')
   .argument('<excelFilePath>', 'Path del archivo excel')
   .argument('<jsonFilePath>', 'Path del archivo json a ser creado')
-  .action((excelFilePath, jsonPathFile) => {
-    updatePrices(excelFilePath, jsonPathFile);
+  .action((excelFilePath, jsonFile) => {
+    updatePrices(excelFilePath, jsonFile);
   });
 
 program
@@ -94,8 +97,8 @@ program
   .alias('post')
   .argument('<collectionName>', 'Nombre de la colección a ser seteada')
   .argument('<jsonFilePath>', 'Path del archivo json a ser enviado')
-  .action((collectionName, jsonPathFile) => {
-    var productsObject = require(jsonPathFile);
+  .action((collectionName, jsonFile) => {
+    var productsObject = require('./json/' + jsonFile);
     sendAllProductsJsonToDB(collectionName, productsObject)
       .then(() => console.log('Actualizado con exito en la base de datos'))
       .catch((error) => console.log(error));
