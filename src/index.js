@@ -101,6 +101,7 @@ program
     var productsObject = require('./json/' + jsonFile);
     sendAllProductsJsonToDB(collectionName, productsObject)
       .then(() => console.log('Actualizado con exito en la base de datos'))
+      .then((data) => console.log(data))
       .catch((error) => console.log(error));
   });
 

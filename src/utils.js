@@ -119,7 +119,13 @@ const updatePrices = (excelFile, jsonFile) => {
           if (
             item.CODIGO == products[productKey][subProductoKey][index].CODIGO
           ) {
-            products[productKey][subProductoKey][index].PRECIO = item.PRECIO;
+            if (typeof item.PRECIO === 'string') {
+              products[productKey][subProductoKey][index].PRECIO = parseFloat(
+                item.PRECIO.replace('$', '')
+              );
+            } else {
+              products[productKey][subProductoKey][index].PRECIO = item.PRECIO;
+            }
           }
         });
       });
